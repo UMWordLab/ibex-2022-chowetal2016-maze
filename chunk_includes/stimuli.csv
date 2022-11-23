@@ -1,237 +1,477 @@
-label,cond1,cond2,cond3,item,controller,sentence,alternative,overnum,amaze_labels,labels_nums,num_words,label_mismatch,verb_num
-mklo.hit.100,mklo,hit,none,100,Maze,The workmen banged the nails.,x-x-x vocally infancy yeah versa.,1,hit1 hit2 verb3 hit4 hit5,5,5,0,2
-mklo.hit.101,mklo,hit,none,101,Maze,The king slapped the rebel.,x-x-x else shuttle page adopt.,2,hit1 hit2 verb3 hit4 hit5,5,5,0,2
-mklo.hit.102,mklo,hit,none,102,Maze,The assistant patted the dough.,x-x-x recommend patchy nice dared.,3,hit1 hit2 verb3 hit4 hit5,5,5,0,2
-mklo.hit.103,mklo,hit,none,103,Maze,The maidens caressed my feet.,x-x-x abolish licensure sale thus.,4,hit1 hit2 verb3 hit4 hit5,5,5,0,2
-mklo.hit.104,mklo,hit,none,104,Maze,The boys bit the candy.,x-x-x else acute fund audit.,5,hit1 hit2 verb3 hit4 hit5,5,5,0,2
-mklo.hit.105,mklo,hit,none,105,Maze,The man beat the oxen.,x-x-x seen coma tell omit.,6,hit1 hit2 verb3 hit4 hit5,5,5,0,2
-mklo.hit.106,mklo,hit,none,106,Maze,The breeze tickled my neck.,x-x-x expire primetime yes owns.,7,hit1 hit2 verb3 hit4 hit5,5,5,0,2
-mklo.hit.107,mklo,hit,none,107,Maze,The teenagers battered the suspects.,x-x-x deodorize ductile pick verified.,8,hit1 hit2 verb3 hit4 hit5,5,5,0,2
-mklo.hit.108,mklo,hit,none,108,Maze,The sheriff nudged my elbow.,x-x-x undergo cassava pre vitro.,9,hit1 hit2 verb3 hit4 hit5,5,5,0,2
-mklo.hit.109,mklo,hit,none,109,Maze,The jay pecked the treats.,x-x-x hie typhoons glad tapped.,10,hit1 hit2 verb3 hit4 hit5,5,5,0,2
-mklo.hit.110,mklo,hit,none,110,Maze,The warrior kicked my jaw.,x-x-x manning preview okay sans.,11,hit1 hit2 verb3 hit4 hit5,5,5,0,2
-mklo.hit.111,mklo,hit,none,111,Maze,The acid stung my eye.,x-x-x warn renown goal glad.,12,hit1 hit2 verb3 hit4 hit5,5,5,0,2
-mklo.break.100,mklo,break,none,100,Maze,The workmen chipped the tiles.,x-x-x vocally infancy buy macro.,13,break1 break2 verb3 break4 break5,5,5,0,2
-mklo.break.101,mklo,break,none,101,Maze,The king crushed the protest.,x-x-x else shuttle vote besides.,14,break1 break2 verb3 break4 break5,5,5,0,2
-mklo.break.102,mklo,break,none,102,Maze,The assistant ripped the script.,x-x-x recommend patchy sale argued.,15,break1 break2 verb3 break4 break5,5,5,0,2
-mklo.break.103,mklo,break,none,103,Maze,The boulders shattered my feet.,x-x-x abolish licensure pre none.,16,break1 break2 verb3 break4 break5,5,5,0,2
-mklo.break.104,mklo,break,none,104,Maze,The boys smashed the bottles.,x-x-x else acute kill receipt.,17,break1 break2 verb3 break4 break5,5,5,0,2
-mklo.break.105,mklo,break,none,105,Maze,The man tore the tickets.,x-x-x seen coma pre anymore.,18,break1 break2 verb3 break4 break5,5,5,0,2
-mklo.break.106,mklo,break,none,106,Maze,The monk fractured his neck.,x-x-x slid primetime bank zero.,19,break1 break2 verb3 break4 break5,5,5,0,2
-mklo.break.107,mklo,break,none,107,Maze,The teenagers rumpled the sweaters.,x-x-x deodorize ductile sir preclude.,20,break1 break2 verb3 break4 break5,5,5,0,2
-mklo.break.108,mklo,break,none,108,Maze,The stones cracked my windshield.,x-x-x priced cassava term commencing.,21,break1 break2 verb3 break4 break5,5,5,0,2
-mklo.break.109,mklo,break,none,109,Maze,The stove scorched the treats.,x-x-x borne typhoons gets denied.,22,break1 break2 verb3 break4 break5,5,5,0,2
-mklo.break.110,mklo,break,none,110,Maze,The warrior snapped my jaw.,x-x-x undergo preview vs gig.,23,break1 break2 verb3 break4 break5,5,5,0,2
-mklo.break.111,mklo,break,none,111,Maze,The oven thawed my food.,x-x-x warn renown sir none.,24,break1 break2 verb3 break4 break5,5,5,0,2
-gp.event.200,gp,event,none,200,Maze,The head librarian arranged a new weekly meeting.,x-x-x seen negligent sunshine dad lose proven stopped.,25,event1 event2 event3 verb4 event5 event6 event7 event8,8,8,0,3
-gp.event.201,gp,event,none,201,Maze,The chief resident accused the nurse of being inefficient.,x-x-x yours darkness privacy text exist seem makes terminology.,26,event1 event2 event3 verb4 event5 event6 event7 event8 event9,9,9,0,3
-gp.event.202,gp,event,none,202,Maze,The young detective inspected the crime scene.,x-x-x defer clearance hectares deal click clean.,27,event1 event2 event3 verb4 event5 event6 event7,7,7,0,3
-gp.event.203,gp,event,none,203,Maze,The Lebanese immigrant came to Maryland around 1966.,x-x-x Secondly placement sorry cent Contents effect sent.,28,event1 event2 event3 verb4 event5 event6 event7 event8,8,8,0,3
-gp.event.204,gp,event,none,204,Maze,The older daughter interrupted her father.,x-x-x elide accuracy microwave sort expect.,29,event1 event2 event3 verb4 event5 event6,6,6,0,3
-gp.event.205,gp,event,none,205,Maze,The impeached president asserted his constitutional right to immunity.,x-x-x designate wonderful newcomers draw infrastructure floor read barbecue.,30,event1 event2 event3 verb4 event5 event6 event7 event8 event9,9,9,0,3
-gp.event.206,gp,event,none,206,Maze,The restless scout explored the Amazon basin.,x-x-x chastise defer strawberry eat Delete bulls.,31,event1 event2 event3 verb4 event5 event6 event7,7,7,0,3
-gp.event.207,gp,event,none,207,Maze,The famous violinist criticized his colleagues.,x-x-x anyway elevating citizenship gain preventing.,32,event1 event2 event3 verb4 event5 event6,6,6,0,3
-gp.event.208,gp,event,none,208,Maze,The Renaissance philosopher invented a complex pulley,x-x-x Necessitate consolidate cabbaged room becomes depots,33,event1 event2 event3 verb4 event5 event6 event7,7,7,0,3
-gp.event.209,gp,event,none,209,Maze,The French ambassador visited the northern provinces of Canada.,x-x-x Imbue everything decade runs appeared paragraph ones Annual.,34,event1 event2 event3 verb4 event5 event6 event7 event8 event9,9,9,0,3
-gp.event.210,gp,event,none,210,Maze,The political prisoner contacted a Human Rights organization.,x-x-x inculcate wondered platinum walk Apply Advice representing.,35,event1 event2 event3 verb4 event5 event6 event7 event8,8,8,0,3
-gp.event.211,gp,event,none,211,Maze,The local athlete eluded the anxious reporter.,x-x-x marry hurting worsen kept focuses deserves.,36,event1 event2 event3 verb4 event5 event6 event7,7,7,0,3
-gp.event.212,gp,event,none,212,Maze,The Italian minister provoked an angry response at the UN meeting.,x-x-x Deliver annoying textbook cent argue programs safe firm WINS fashion.,37,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11,11,11,0,3
-gp.event.213,gp,event,none,213,Maze,The senior student painted his room yellow.,x-x-x gotten beastly cheaper wait hear losses.,38,event1 event2 event3 verb4 event5 event6 event7,7,7,0,3
-gp.event.214,gp,event,none,214,Maze,The retired musician built his second house from scratch.,x-x-x enhance allergic dairy yeah expect feels girl kicking.,39,event1 event2 event3 verb4 event5 event6 event7 event8 event9,9,9,0,3
-gp.event.215,gp,event,none,215,Maze,The old prosecutor invoked the fourth amendment.,x-x-x ago preferably oxidation trip cheese designers.,40,event1 event2 event3 verb4 event5 event6 event7,7,7,0,3
-gp.event.216,gp,event,none,216,Maze,The bossy editor allowed one party in the office.,x-x-x scour regret furnish gone shall cat fell expect.,41,event1 event2 event3 verb4 event5 event6 event7 event8 event9,9,9,0,3
-gp.event.217,gp,event,none,217,Maze,The army general clarified his political position.,x-x-x else awesome untreated date everybody powerful.,42,event1 event2 event3 verb4 event5 event6 event7,7,7,0,3
-gp.event.218,gp,event,none,218,Maze,The teaching assistant degraded his supervisor.,x-x-x whatever pregnancy droughts hit confronted.,43,event1 event2 event3 verb4 event5 event6,6,6,0,3
-gp.event.219,gp,event,none,219,Maze,The celebrated investor mingled with his friends.,x-x-x facilitate resisted denting anti send located.,44,event1 event2 event3 verb4 event5 event6 event7,7,7,0,3
-gp.event.220,gp,event,none,220,Maze,The idealistic peacekeeper disarmed the guerilla fighter.,x-x-x categorize ascertained jumpers loss elliptic listing.,45,event1 event2 event3 verb4 event5 event6 event7,7,7,0,3
-gp.event.221,gp,event,none,221,Maze,The experienced manager assured the stockholders of success.,x-x-x superimpose confirm embassy sun approximated anti effects.,46,event1 event2 event3 verb4 event5 event6 event7 event8,8,8,0,3
-gp.event.222,gp,event,none,222,Maze,The executive director curtailed the workers' rights.,x-x-x negotiate northern cyclones non imagine' listen.,47,event1 event2 event3 verb4 event5 event6 event7,7,7,0,3
-gp.event.223,gp,event,none,223,Maze,The frontier rangers decimated the illegal settlements.,x-x-x commence vanilla annulment sell divorce convertible.,48,event1 event2 event3 verb4 event5 event6 event7,7,7,0,3
-gp.event.224,gp,event,none,224,Maze,The savvy accountant deducted the outrageous fees.,x-x-x unbag kilometres chapels sort childbirth puts.,49,event1 event2 event3 verb4 event5 event6 event7,7,7,0,3
-gp.event.225,gp,event,none,225,Maze,The visiting scientist solved the intricate math problem.,x-x-x penalize correctly heroin anti penetrate wore partner.,50,event1 event2 event3 verb4 event5 event6 event7 event8,8,8,0,3
-gp.event.226,gp,event,none,226,Maze,The popular Democrat avenged the workers' unfair treatment.,x-x-x anymore Adequate lichens easy realize' basics literally.,51,event1 event2 event3 verb4 event5 event6 event7 event8,8,8,0,3
-gp.event.227,gp,event,none,227,Maze,The Chinese emperor noted that his subordinates were hungry.,x-x-x Iconize forgive canvas feel mom lighthearted rich tablet.,52,event1 event2 event3 verb4 event5 event6 event7 event8 event9,9,9,0,3
-gp.event.228,gp,event,none,228,Maze,The controversial governor showed evidence in his defense.,x-x-x functionalize equipped weird tomorrow try can prevent.,53,event1 event2 event3 verb4 event5 event6 event7 event8,8,8,0,3
-gp.event.229,gp,event,none,229,Maze,The dirty player exited instantly.,x-x-x yours posted paler ambitious.,54,event1 event2 event3 verb4 event5,5,5,0,3
-gp.event.230,gp,event,none,230,Maze,The Russian diplomat stressed the importance of the economic measures.,x-x-x Anymore slipping wickets cash associates dead sit provides confused.,55,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10,10,10,0,3
-gp.event.231,gp,event,none,231,Maze,The despotic dictator declared an embargo against Cuba.,x-x-x malinger mornings bathroom grow lexical parents Dial.,56,event1 event2 event3 verb4 event5 event6 event7 event8,8,8,0,3
-gp.event.232,gp,event,none,232,Maze,The young boy bullied his parents.,x-x-x tempt shut overdue yes offered.,57,event1 event2 event3 verb4 event5 event6,6,6,0,3
-gp.event.233,gp,event,none,233,Maze,A few diligent men devised a novel communication system.,x-x-x luck acumber mid turmoil app falls neighborhoods levels.,58,event1 event2 event3 verb4 event5 event6 event7 event8 event9,9,9,0,3
-gp.event.234,gp,event,none,234,Maze,The Swedish academy awarded a Nobel Prize to an unknown scientist.,x-x-x Showers pleased capitol knew Haunt Folks step holy protein campaigns.,59,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11,11,11,0,3
-gp.event.235,gp,event,none,235,Maze,The advising committee reviewed the hospital's rules on patient treatment.,x-x-x begirdle dangerous computing lose dislocated ahead heat tonight obviously.,60,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10,10,10,0,3
-gp.event.236,gp,event,none,236,Maze,The previous administration removed evidence compromising its subordinates.,x-x-x whatever understandable suicide birthday inauguration kid commemorates.,61,event1 event2 event3 verb4 event5 event6 event7 event8,8,8,0,3
-gp.event.237,gp,event,none,237,Maze,The food factory commissioned a small part of the necessary equipment.,x-x-x upon pleased impeachment loss among luck easy seen ourselves everybody.,62,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11,11,11,0,3
-gp.event.238,gp,event,none,238,Maze,The recent polls distorted the candidate's judgment.,x-x-x gotten cared worldly grow propagating liberals.,63,event1 event2 event3 verb4 event5 event6 event7,7,7,0,3
-gp.event.239,gp,event,none,239,Maze,Many economic problems emerged in Europe after the Second World War.,x-x-x yourself watching battles big Window sweet vote Handle Super Hall.,64,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11,11,11,0,3
-gp.event.240,gp,event,none,240,Maze,The famous book discussed the financial implications of the Gulf War.,x-x-x ascend knew democrats sick certainly bibliography way hurt Pops Mom.,65,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11,11,11,0,3
-gp.event.241,gp,event,none,241,Maze,The department chair said that the students did not come to class.,x-x-x accomplish worse hate cent cat tomorrow cell tree baby gas looks.,66,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11 event12,12,12,0,3
-gp.event.242,gp,event,none,242,Maze,The clever tyrant began to negotiate with the national parties.,x-x-x abrade weaken rental lot projected lord east remember reached.,67,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10,10,10,0,3
-gp.event.243,gp,event,none,243,Maze,The executive staff graduated from the Harvard School of Business.,x-x-x anglicize proud milligrams walk till Achieve Longer car Contract.,68,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10,10,10,0,3
-gp.state.200,gp,state,none,200,Maze,The head librarian belonged to a union committee.,x-x-x else resorting sunshine fat sun began everybody.,69,state1 state2 state3 verb4 state5 state6 state7 state8,8,8,0,3
-gp.state.201,gp,state,none,201,Maze,The chief resident regarded the nurse as a dear friend.,x-x-x yours fabulous privacy walk eaten pick runs upon online.,70,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10,10,10,0,3
-gp.state.202,gp,state,none,202,Maze,The young detective disliked his senior partner.,x-x-x defer interpret hectares vote senate improve.,71,state1 state2 state3 verb4 state5 state6 state7,7,7,0,3
-gp.state.203,gp,state,none,203,Maze,The Lebanese immigrant lived in Maryland since 1966.,x-x-x Secondly ignorance sorry am Abortion video ring.,72,state1 state2 state3 verb4 state5 state6 state7 state8,8,8,0,3
-gp.state.204,gp,state,none,204,Maze,The older daughter resembled her mother.,x-x-x elide whatever microwave kill missed.,73,state1 state2 state3 verb4 state5 state6,6,6,0,3
-gp.state.205,gp,state,none,205,Maze,The impeached president regretted his administration's political mistakes.,x-x-x designate happening newcomers feet electrification companies treating.,74,state1 state2 state3 verb4 state5 state6 state7 state8,8,8,0,3
-gp.state.206,gp,state,none,206,Maze,The restless scout respected his coach.,x-x-x chastise scans strawberry gone enter.,75,state1 state2 state3 verb4 state5 state6,6,6,0,3
-gp.state.207,gp,state,none,207,Maze,The famous violinist appreciated his colleagues.,x-x-x anyway unplanned citizenship turn contractor.,76,state1 state2 state3 verb4 state5 state6,6,6,0,3
-gp.state.208,gp,state,none,208,Maze,The Renaissance philosopher admired his ancient predecessors.,x-x-x Necessitate ventilation cabbaged lord promote alphabetical.,77,state1 state2 state3 verb4 state5 state6 state7,7,7,0,3
-gp.state.209,gp,state,none,209,Maze,The French ambassador owned a productive factory since the nineties.,x-x-x Imbue everything decade pass capitalism correct views die rehearse.,78,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10,10,10,0,3
-gp.state.210,gp,state,none,210,Maze,The political prisoner deserved better treatment.,x-x-x inculcate catching platinum artist certainly.,79,state1 state2 state3 verb4 state5 state6,6,6,0,3
-gp.state.211,gp,state,none,211,Maze,The local athlete envied the Olympic champion.,x-x-x marry specify worsen loss Breathe attorney.,80,state1 state2 state3 verb4 state5 state6 state7,7,7,0,3
-gp.state.212,gp,state,none,212,Maze,The Italian minister possessed an impressive fortune before he took office.,x-x-x Deliver grateful textbook sale healthcare touched sister pre wait happen.,81,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11,11,11,0,3
-gp.state.213,gp,state,none,213,Maze,The senior student hated his greedy roommate.,x-x-x anyway imagine cheaper pre adhere policing.,82,state1 state2 state3 verb4 state5 state6 state7,7,7,0,3
-gp.state.214,gp,state,none,214,Maze,The retired musician loved his second child very much.,x-x-x enhance allergic dairy vote choose waste risk anti.,83,state1 state2 state3 verb4 state5 state6 state7 state8 state9,9,9,0,3
-gp.state.215,gp,state,none,215,Maze,The old prosecutor cherished his close colleagues.,x-x-x gone evaluating oxidation ice china convenient.,84,state1 state2 state3 verb4 state5 state6 state7,7,7,0,3
-gp.state.216,gp,state,none,216,Maze,The bossy editor needed two phones in his office.,x-x-x scour plenty furnish lady galaxy week goes anyway.,85,state1 state2 state3 verb4 state5 state6 state7 state8 state9,9,9,0,3
-gp.state.217,gp,state,none,217,Maze,The army general despised the navy commander.,x-x-x else percent untreated glad clue spiritual.,86,state1 state2 state3 verb4 state5 state6 state7,7,7,0,3
-gp.state.218,gp,state,none,218,Maze,The teaching assistant detested his supervisor.,x-x-x whatever awareness droughts foot preserving.,87,state1 state2 state3 verb4 state5 state6,6,6,0,3
-gp.state.219,gp,state,none,219,Maze,The celebrated investor resided in New York.,x-x-x facilitate regulate denting skin Push Past.,88,state1 state2 state3 verb4 state5 state6 state7,7,7,0,3
-gp.state.220,gp,state,none,220,Maze,The idealistic peacekeeper revered his pacifist ancestors.,x-x-x categorize intersected jumpers add engraver regulated.,89,state1 state2 state3 verb4 state5 state6 state7,7,7,0,3
-gp.state.221,gp,state,none,221,Maze,The experienced manager trusted his employees.,x-x-x superimpose anymore embassy loss happening.,90,state1 state2 state3 verb4 state5 state6,6,6,0,3
-gp.state.222,gp,state,none,222,Maze,The executive director loathed the company's lawyer.,x-x-x negotiate powerful cyclones holy attracted speaks.,91,state1 state2 state3 verb4 state5 state6 state7,7,7,0,3
-gp.state.223,gp,state,none,223,Maze,The frontier rangers distrusted the Mexican immigrants.,x-x-x optimize hurting annulment text Whereas publishing.,92,state1 state2 state3 verb4 state5 state6 state7,7,7,0,3
-gp.state.224,gp,state,none,224,Maze,The savvy accountant aspired to the bank's presidency.,x-x-x unbag chromosome chapels eyes tree snatch approached.,93,state1 state2 state3 verb4 state5 state6 state7 state8,8,8,0,3
-gp.state.225,gp,state,none,225,Maze,The visiting scientist lacked any knowledge of English.,x-x-x penalize converted heroin met happening day Largest.,94,state1 state2 state3 verb4 state5 state6 state7 state8,8,8,0,3
-gp.state.226,gp,state,none,226,Maze,The popular Democrat pitied the homeless of New York.,x-x-x watched Assessed lichens lady evaluate luck Felt Bank.,95,state1 state2 state3 verb4 state5 state6 state7 state8 state9,9,9,0,3
-gp.state.227,gp,state,none,227,Maze,The Chinese emperor feared that his subordinates were furious.,x-x-x Iconize powered canvas cast cat psychosocial wild implies.,96,state1 state2 state3 verb4 state5 state6 state7 state8 state9,9,9,0,3
-gp.state.228,gp,state,none,228,Maze,The controversial governor liked limousines with a bar.,x-x-x functionalize grateful weird subjugated lose sir app.,97,state1 state2 state3 verb4 state5 state6 state7 state8,8,8,0,3
-gp.state.229,gp,state,none,229,Maze,The dirty player stank terribly.,x-x-x yours expect paler educator.,98,state1 state2 state3 verb4 state5,5,5,0,3
-gp.state.230,gp,state,none,230,Maze,The Russian diplomat doubted the importance of the economic measures.,x-x-x Imagine jeopardy wickets get approached army kids designed unlikely.,99,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10,10,10,0,3
-gp.state.231,gp,state,none,231,Maze,The despotic dictator suspected a conspiracy against him.,x-x-x malinger downhill bathroom yeah evaluation healthy seat.,100,state1 state2 state3 verb4 state5 state6 state7 state8,8,8,0,3
-gp.state.232,gp,state,none,232,Maze,The young boy adored his parents.,x-x-x tempt pull overdue sort towards.,101,state1 state2 state3 verb4 state5 state6,6,6,0,3
-gp.state.233,gp,state,none,233,Maze,A few diligent men comprised the king's entire army.,x-x-x hear acumber mid liquidity lose insist caused hurt.,102,state1 state2 state3 verb4 state5 state6 state7 state8 state9,9,9,0,3
-gp.state.234,gp,state,none,234,Maze,The Swedish academy owed its success to its wealthy founder.,x-x-x Dismiss letting capitol join appears bed spot pitched wrapped.,103,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10,10,10,0,3
-gp.state.235,gp,state,none,235,Maze,The advising committee consisted of several international representatives.,x-x-x begirdle wonderful computing hear wedding understanding congratulations.,104,state1 state2 state3 verb4 state5 state6 state7 state8,8,8,0,3
-gp.state.236,gp,state,none,236,Maze,The previous administration contained innumerable bureaus and departments.,x-x-x cogitate systematically suicide discography majored fall unconscious.,105,state1 state2 state3 verb4 state5 state6 state7 state8,8,8,0,3
-gp.state.237,gp,state,none,237,Maze,The food factory constituted a small part of the senator's assets.,x-x-x gone insight impeachment pull begin days bet hour intersect gained.,106,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11,11,11,0,3
-gp.state.238,gp,state,none,238,Maze,The recent polls equaled the newspaper estimate.,x-x-x anyway slept worldly bet elsewhere clicking.,107,state1 state2 state3 verb4 state5 state6 state7,7,7,0,3
-gp.state.239,gp,state,none,239,Maze,Many economic problems existed in Europe after the Second World War.,x-x-x somebody designed battles king Advice throw says Pretty Trump Huge.,108,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11,11,11,0,3
-gp.state.240,gp,state,none,240,Maze,The famous book concerned the financial implications of the Gulf War.,x-x-x ascend lose democrats vote therefore consolidated cash eat Wore Gun.,109,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11,11,11,0,3
-gp.state.241,gp,state,none,241,Maze,The department chair knew that the students did not come to class.,x-x-x accomplish anger hate bill die compared yes east wall mark month.,110,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11 state12,12,12,0,3
-gp.state.242,gp,state,none,242,Maze,The clever tyrant wished to negotiate with the national parties.,x-x-x abrade basins rental vs resistant unit seem although receive.,111,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10,10,10,0,3
-gp.state.243,gp,state,none,243,Maze,The executive board overlapped with the advising committee.,x-x-x anglicize weird milligrams date die collided happening.,112,state1 state2 state3 verb4 state5 state6 state7 state8,8,8,0,3
-psych.atel.oe.301,psych,atel,oe,301,Maze,Despite everything the janitor agitated the chemistry teacher.,x-x-x window add ashore reactors laws subscribe wedding.,113,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.atel.se.301,psych,atel,se,301,Maze,Despite everything the janitor admired the chemistry teacher.,x-x-x window add ashore reactors laws subscribe wedding.,114,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.tel.oe.301,psych,tel,oe,301,Maze,Within a couple of minutes the janitor agitated the chemistry teacher.,x-x-x window add ashore becomes kind nestled reactors laws subscribe wedding.,115,psych1 psych2 psych3 psych4 psych5 psych6 psych7 V0 post1 post2 post3,11,11,0,7
-psych.tel.se.301,psych,tel,se,301,Maze,Within a couple of minutes the janitor admired the chemistry teacher.,x-x-x window add ashore becomes kind nestled reactors laws subscribe wedding.,116,psych1 psych2 psych3 psych4 psych5 psych6 psych7 V0 post1 post2 post3,11,11,0,7
-psych.atel.oe.302,psych,atel,oe,302,Maze,Though he was sick the patient amused the hospital receptionist.,x-x-x guy glad cent myself depends kilometres club includes cooperatives.,117,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.se.302,psych,atel,se,302,Maze,Though he was sick the patient appreciated the hospital receptionist.,x-x-x guy glad cent myself depends kilometres club includes cooperatives.,118,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.oe.302,psych,tel,oe,302,Maze,In no time the patient amused the hospital receptionist.,x-x-x guy glad cent myself kilometres club includes cooperatives.,119,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.tel.se.302,psych,tel,se,302,Maze,In no time the patient appreciated the hospital receptionist.,x-x-x guy glad cent myself kilometres club includes cooperatives.,120,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.atel.oe.303,psych,atel,oe,303,Maze,According to the review the critic angered the popular actress.,x-x-x nice sir whilst fear popped cereal eat reached removed.,121,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.se.303,psych,atel,se,303,Maze,According to the review the critic hated the popular actress.,x-x-x nice sir whilst fear popped cereal eat reached removed.,122,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.oe.303,psych,tel,oe,303,Maze,Within moments the critic angered the popular actress.,x-x-x nice sir whilst cereal eat reached removed.,123,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.tel.se.303,psych,tel,se,303,Maze,Within moments the critic hated the popular actress.,x-x-x nice sir whilst cereal eat reached removed.,124,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.atel.oe.304,psych,atel,oe,304,Maze,Clearly the conductor annoyed the unprepared cellist.,x-x-x manager educators cancers sir chronicled pouches.,125,psych1 psych2 psych3 V4 post1 post2 post3,7,7,0,3
-psych.atel.se.304,psych,atel,se,304,Maze,Clearly the conductor deplored the unprepared cellist.,x-x-x manager educators cancers sir chronicled pouches.,126,psych1 psych2 psych3 V4 post1 post2 post3,7,7,0,3
-psych.tel.oe.304,psych,tel,oe,304,Maze,Quite quickly the conductor annoyed the unprepared cellist.,x-x-x manager educators abortions decimal sir chronicled pouches.,127,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.tel.se.304,psych,tel,se,304,Maze,Quite quickly the conductor deplored the unprepared cellist.,x-x-x manager educators abortions decimal sir chronicled pouches.,128,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.atel.oe.305,psych,atel,oe,305,Maze,According to the book the politician baffled the eager reporter.,x-x-x pick goes buy sell moreover mammary bag stare involves.,129,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.se.305,psych,atel,se,305,Maze,According to the book the politician detested the eager reporter.,x-x-x pick goes buy sell moreover mammary bag stare involves.,130,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.oe.305,psych,tel,oe,305,Maze,In the space of a few minutes the politician baffled the eager reporter.,x-x-x pick goes buy sell moreover imagine lord capitalism mammary bag stare involves.,131,psych1 psych2 psych3 psych4 psych5 psych6 psych7 psych8 psych9 V0 post1 post2 post3,13,13,0,9
-psych.tel.se.305,psych,tel,se,305,Maze,In the space of a few minutes the politician detested the eager reporter.,x-x-x pick goes buy sell moreover imagine lord capitalism mammary bag stare involves.,132,psych1 psych2 psych3 psych4 psych5 psych6 psych7 psych8 psych9 V0 post1 post2 post3,13,13,0,9
-psych.atel.oe.306,psych,atel,oe,306,Maze,Without much reason the student bewildered the school's principal.,x-x-x girl herself guy follows idiopathic yeah arguably succeeded.,133,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.atel.se.306,psych,atel,se,306,Maze,Without much reason the student disdained the school's principal.,x-x-x girl herself guy follows idiopathic yeah arguably succeeded.,134,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.tel.oe.306,psych,tel,oe,306,Maze,Within ten minutes the student bewildered the school's principal.,x-x-x girl herself guy follows idiopathic yeah arguably succeeded.,135,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.tel.se.306,psych,tel,se,306,Maze,Within ten minutes the student disdained the school's principal.,x-x-x girl herself guy follows idiopathic yeah arguably succeeded.,136,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.atel.oe.307,psych,atel,oe,307,Maze,Understandably the nurse calmed the friendly doctor.,x-x-x sir nor secede cent reviewed plenty.,137,psych1 psych2 psych3 V0 post1 post2 post3,7,7,0,3
-psych.atel.se.307,psych,atel,se,307,Maze,Understandably the nurse envied the friendly doctor.,x-x-x sir nor secede cent reviewed plenty.,138,psych1 psych2 psych3 V0 post1 post2 post3,7,7,0,3
-psych.tel.oe.307,psych,tel,oe,307,Maze,Within a few months the nurse calmed the friendly doctor.,x-x-x sir nor sounds luck cents secede cent reviewed plenty.,139,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.se.307,psych,tel,se,307,Maze,Within a few months the nurse envied the friendly doctor.,x-x-x sir nor sounds luck cents secede cent reviewed plenty.,140,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.oe.308,psych,atel,oe,308,Maze,Obviously the teenager delighted the good looking neighbor.,x-x-x miss annually tariffs sale yeah figured commerce.,141,psych1 psych2 psych3 V0 post1 post2 post3 post4,8,8,0,3
-psych.atel.se.308,psych,atel,se,308,Maze,Obviously the teenager fancied the good looking neighbor.,x-x-x miss annually tariffs sale yeah figured commerce.,142,psych1 psych2 psych3 V0 post1 post2 post3 post4,8,8,0,3
-psych.tel.oe.308,psych,tel,oe,308,Maze,Within a week the teenager delighted the good looking neighbor.,x-x-x miss annually mind wherever tariffs sale yeah figured commerce.,143,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3 post4,10,10,0,5
-psych.tel.se.308,psych,tel,se,308,Maze,Within a week the teenager fancied the good looking neighbor.,x-x-x miss annually mind wherever tariffs sale yeah figured commerce.,144,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3 post4,10,10,0,5
-psych.atel.oe.309,psych,atel,oe,309,Maze,According to the producer the agent disappointed the tall woman.,x-x-x rose baby awful nor twice homeland cent suck worry.,145,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.se.309,psych,atel,se,309,Maze,According to the producer the agent favored the tall woman.,x-x-x rose baby awful nor twice homeland cent suck worry.,146,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.oe.309,psych,tel,oe,309,Maze,Within five minutes the agent disappointed the tall woman.,x-x-x rose baby awful nor homeland cent suck worry.,147,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.tel.se.309,psych,tel,se,309,Maze,Within five minutes the agent favored the tall woman.,x-x-x rose baby awful nor homeland cent suck worry.,148,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.atel.oe.310,psych,atel,oe,310,Maze,For quite a few years the fans discouraged the demanding manager.,x-x-x dad thank glad gave anti yeah apocalyptic okay discusses follows.,149,psych1 psych2 psych3 psych4 psych5 psych6 psych7 V0 post1 post2 post3,11,11,0,7
-psych.atel.se.310,psych,atel,se,310,Maze,For quite a few years the fans esteemed the demanding manager.,x-x-x dad thank glad gave anti yeah apocalyptic okay discusses follows.,150,psych1 psych2 psych3 psych4 psych5 psych6 psych7 V0 post1 post2 post3,11,11,0,7
-psych.tel.oe.310,psych,tel,oe,310,Maze,Within the space of a few days the fans discouraged the demanding manager.,x-x-x dad thank glad gave anti yeah guys whom apocalyptic okay discusses follows.,151,psych1 psych2 psych3 psych4 psych5 psych6 psych7 psych8 psych9 V0 post1 post2 post3,13,13,0,9
-psych.tel.se.310,psych,tel,se,310,Maze,Within the space of a few days the fans esteemed the demanding manager.,x-x-x dad thank glad gave anti yeah guys whom apocalyptic okay discusses follows.,152,psych1 psych2 psych3 psych4 psych5 psych6 psych7 psych8 psych9 V0 post1 post2 post3,13,13,0,9
-psych.atel.oe.311,psych,atel,oe,311,Maze,According to the letter the minister encouraged the difficult decision.,x-x-x pull anti thinks slow tomorrow unhealthy cent somewhere includes.,153,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.se.311,psych,atel,se,311,Maze,According to the letter the minister regretted the difficult decision.,x-x-x pull anti thinks slow tomorrow unhealthy cent somewhere includes.,154,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.oe.311,psych,tel,oe,311,Maze,Within days the minister encouraged the difficult decision.,x-x-x pull anti thinks unhealthy cent somewhere includes.,155,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.tel.se.311,psych,tel,se,311,Maze,Within days the minister regretted the difficult decision.,x-x-x pull anti thinks unhealthy cent somewhere includes.,156,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.atel.oe.312,psych,atel,oe,312,Maze,Because of his upbringing the prince enraged the poor commoners.,x-x-x mom got reacts vote thank subsets app lose germanium.,157,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.se.312,psych,atel,se,312,Maze,Because of his upbringing the prince pitied the poor commoners.,x-x-x mom got reacts vote thank subsets app lose germanium.,158,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.oe.312,psych,tel,oe,312,Maze,Within a couple of months the prince enraged the poor commoners.,x-x-x mom got reacts vote thank except subsets app lose germanium.,159,psych1 psych2 psych3 psych4 psych5 psych6 psych7 V0 post1 post2 post3,11,11,0,7
-psych.tel.se.312,psych,tel,se,312,Maze,Within a couple of months the prince pitied the poor commoners.,x-x-x mom got reacts vote thank except subsets app lose germanium.,160,psych1 psych2 psych3 psych4 psych5 psych6 psych7 V0 post1 post2 post3,11,11,0,7
-psych.atel.oe.313,psych,atel,oe,313,Maze,According to the owner the rider soothed the scared horse.,x-x-x miss sir hence fat grabs pogroms glad abroad worry.,161,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.se.313,psych,atel,se,313,Maze,According to the owner the rider loathed the scared horse.,x-x-x miss sir hence fat grabs pogroms glad abroad worry.,162,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.oe.313,psych,tel,oe,313,Maze,Within seconds the rider soothed the scared horse.,x-x-x miss sir hence pogroms glad abroad worry.,163,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.tel.se.313,psych,tel,se,313,Maze,Within seconds the rider loathed the scared horse.,x-x-x miss sir hence pogroms glad abroad worry.,164,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.atel.oe.314,psych,atel,oe,314,Maze,Fortunately the volunteer fascinated the short park ranger.,x-x-x dad whether noticeable miss cents suck verify.,165,psych1 psych2 psych3 V0 post1 post2 post3 post4,8,8,0,3
-psych.atel.se.314,psych,atel,se,314,Maze,Fortunately the volunteer trusted the short park ranger.,x-x-x dad whether noticeable miss cents suck verify.,166,psych1 psych2 psych3 V0 post1 post2 post3 post4,8,8,0,3
-psych.tel.oe.314,psych,tel,oe,314,Maze,Within a few hours the volunteer fascinated the short park ranger.,x-x-x dad whether judge yes ourselves noticeable miss cents suck verify.,167,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3 post4,11,11,0,6
-psych.tel.se.314,psych,tel,se,314,Maze,Within a few hours the volunteer trusted the short park ranger.,x-x-x dad whether judge yes ourselves noticeable miss cents suck verify.,168,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3 post4,11,11,0,6
-psych.atel.oe.315,psych,atel,oe,315,Maze,Like many adolescents the girl offended the alternative rock band.,x-x-x rate defect hill whom covalent yeah accountable earn glad.,169,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3 post4,10,10,0,5
-psych.atel.se.315,psych,atel,se,315,Maze,Like many adolescents the girl idolized the alternative rock band.,x-x-x rate defect hill whom covalent yeah accountable earn glad.,170,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3 post4,10,10,0,5
-psych.tel.oe.315,psych,tel,oe,315,Maze,Within a month the girl offended the alternative rock band.,x-x-x rate defect hill whom covalent yeah accountable earn glad.,171,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3 post4,10,10,0,5
-psych.tel.se.315,psych,tel,se,315,Maze,Within a month the girl idolized the alternative rock band.,x-x-x rate defect hill whom covalent yeah accountable earn glad.,172,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3 post4,10,10,0,5
-psych.atel.oe.316,psych,atel,oe,316,Maze,After the accident the citizens outraged the controversial leader.,x-x-x knew worked lord awesome crayons else differentiate myself.,173,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.atel.se.316,psych,atel,se,316,Maze,After the accident the citizens mourned the controversial leader.,x-x-x knew worked lord awesome crayons else differentiate myself.,174,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.tel.oe.316,psych,tel,oe,316,Maze,Within a couple of days the citizens outraged the controversial leader.,x-x-x knew worked lord awesome sir contains crayons else differentiate myself.,175,psych1 psych2 psych3 psych4 psych5 psych6 psych7 V0 post1 post2 post3,11,11,0,7
-psych.tel.se.316,psych,tel,se,316,Maze,Within a couple of days the citizens mourned the controversial leader.,x-x-x knew worked lord awesome sir contains crayons else differentiate myself.,176,psych1 psych2 psych3 psych4 psych5 psych6 psych7 V0 post1 post2 post3,11,11,0,7
-psych.atel.oe.317,psych,atel,oe,317,Maze,According to the article the president perplexed the campaign advisor.,x-x-x know anti herself hope yesterday retailers door appeared toddler.,177,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.se.317,psych,atel,se,317,Maze,According to the article the president valued the campaign advisor.,x-x-x know anti herself hope yesterday retailers door appeared toddler.,178,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.oe.317,psych,tel,oe,317,Maze,Over time the president perplexed the campaign advisor.,x-x-x know anti herself retailers door appeared toddler.,179,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.tel.se.317,psych,tel,se,317,Maze,Over time the president valued the campaign advisor.,x-x-x know anti herself retailers door appeared toddler.,180,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.atel.oe.318,psych,atel,oe,318,Maze,After the buy-out the board placated the old president.,x-x-x beach yeah glad twice intertidal okay ago obviously.,181,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.atel.se.318,psych,atel,se,318,Maze,After the buy-out the board distrusted the old president.,x-x-x beach yeah glad twice intertidal okay ago obviously.,182,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.tel.oe.318,psych,tel,oe,318,Maze,Almost immediately the board placated the old president.,x-x-x beach yeah glad intertidal okay ago obviously.,183,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.tel.se.318,psych,tel,se,318,Maze,Almost immediately the board distrusted the old president.,x-x-x beach yeah glad intertidal okay ago obviously.,184,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.atel.oe.319,psych,atel,oe,319,Maze,Quite surprisingly the schoolboy provoked the cute puppy.,x-x-x profession owner payable testify app aids facto.,185,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.atel.se.319,psych,atel,se,319,Maze,Quite surprisingly the schoolboy missed the cute puppy.,x-x-x profession owner payable testify app aids facto.,186,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.tel.oe.319,psych,tel,oe,319,Maze,Within a couple of hours the schoolboy provoked the cute puppy.,x-x-x profession owner payable piece pro cirrhosis testify app aids facto.,187,psych1 psych2 psych3 psych4 psych5 psych6 psych7 V0 post1 post2 post3,11,11,0,7
-psych.tel.se.319,psych,tel,se,319,Maze,Within a couple of hours the schoolboy missed the cute puppy.,x-x-x profession owner payable piece pro cirrhosis testify app aids facto.,188,psych1 psych2 psych3 psych4 psych5 psych6 psych7 V0 post1 post2 post3,11,11,0,7
-psych.atel.oe.320,psych,atel,oe,320,Maze,Unfortunately the criminal saddened the strict federal judge.,x-x-x soul yourself solstice text topped require truly.,189,psych1 psych2 psych3 V0 post1 post2 post3 post4,8,8,0,3
-psych.atel.se.320,psych,atel,se,320,Maze,Unfortunately the criminal resented the strict federal judge.,x-x-x soul yourself solstice text topped require truly.,190,psych1 psych2 psych3 V0 post1 post2 post3 post4,8,8,0,3
-psych.tel.oe.320,psych,tel,oe,320,Maze,Within a half hour the criminal saddened the strict federal judge.,x-x-x soul yourself jobs cup anywhere solstice text topped require truly.,191,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3 post4,11,11,0,6
-psych.tel.se.320,psych,tel,se,320,Maze,Within a half hour the criminal resented the strict federal judge.,x-x-x soul yourself jobs cup anywhere solstice text topped require truly.,192,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3 post4,11,11,0,6
-psych.atel.oe.321,psych,atel,oe,321,Maze,Without a doubt the child scared the precious kitten.,x-x-x miss today guy hear federally cent involves slated.,193,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.atel.se.321,psych,atel,se,321,Maze,Without a doubt the child cherished the precious kitten.,x-x-x miss today guy hear federally cent involves slated.,194,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.tel.oe.321,psych,tel,oe,321,Maze,Within a few minutes the child scared the precious kitten.,x-x-x miss today guy hear shown federally cent involves slated.,195,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.se.321,psych,tel,se,321,Maze,Within a few minutes the child cherished the precious kitten.,x-x-x miss today guy hear shown federally cent involves slated.,196,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.oe.322,psych,atel,oe,322,Maze,According to the memo the producer upset the tempermental superstar.,x-x-x net cup ensuring slow realized births bag minesweeping honeymoon.,197,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.se.322,psych,atel,se,322,Maze,According to the memo the producer tolerated the tempermental superstar.,x-x-x net cup ensuring slow realized births bag minesweeping honeymoon.,198,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.oe.322,psych,tel,oe,322,Maze,Quite suddenly the producer upset the tempermental superstar.,x-x-x net cup ensuring births bag minesweeping honeymoon.,199,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.tel.se.322,psych,tel,se,322,Maze,Quite suddenly the producer tolerated the tempermental superstar.,x-x-x net cup ensuring births bag minesweeping honeymoon.,200,psych1 psych2 psych3 psych4 V0 post1 post2 post3,8,8,0,4
-psych.atel.oe.323,psych,atel,oe,323,Maze,According to the email the editor terrified the brilliant first-time author.,x-x-x own pro yours wait lovely suburban grow ourselves infections latter.,201,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3 post4,11,11,0,6
-psych.atel.se.323,psych,atel,se,323,Maze,According to the email the editor prized the brilliant first-time author.,x-x-x own pro yours wait lovely suburban grow ourselves infections latter.,202,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3 post4,11,11,0,6
-psych.tel.oe.323,psych,tel,oe,323,Maze,Within hours the editor terrified the brilliant first-time author.,x-x-x own pro yours suburban grow ourselves infections latter.,203,psych1 psych2 psych3 psych4 V0 post1 post2 post3 post4,9,9,0,4
-psych.tel.se.323,psych,tel,se,323,Maze,Within hours the editor prized the brilliant first-time author.,x-x-x own pro yours suburban grow ourselves infections latter.,204,psych1 psych2 psych3 psych4 V0 post1 post2 post3 post4,9,9,0,4
-psych.atel.oe.324,psych,atel,oe,324,Maze,Understandably the attorney confused the distressed witness.,x-x-x thank anymore gospel gone reiterated destroy.,205,psych1 psych2 psych3 V0 post1 post2 post3,7,7,0,3
-psych.atel.se.324,psych,atel,se,324,Maze,Understandably the attorney valued the distressed witness.,x-x-x thank anymore gospel gone reiterated destroy.,206,psych1 psych2 psych3 V0 post1 post2 post3,7,7,0,3
-psych.tel.oe.324,psych,tel,oe,324,Maze,Within twenty minutes the attorney confused the distressed witness.,x-x-x thank anymore fund anywhere gospel gone reiterated destroy.,207,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.tel.se.324,psych,tel,se,324,Maze,Within twenty minutes the attorney valued the distressed witness.,x-x-x thank anymore fund anywhere gospel gone reiterated destroy.,208,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.atel.oe.325,psych,atel,oe,325,Maze,Unsurprisingly the dean charmed the potential donors.,x-x-x pre suck sequels okay alongside sorted.,209,psych1 psych2 psych3 V0 post1 post2 post3,7,7,0,3
-psych.atel.se.325,psych,atel,se,325,Maze,Unsurprisingly the dean prized the potential donors.,x-x-x pre suck sequels okay alongside sorted.,210,psych1 psych2 psych3 V0 post1 post2 post3,7,7,0,3
-psych.tel.oe.325,psych,tel,oe,325,Maze,In the space of a few minutes the dean charmed the potential donors.,x-x-x pre suck sure can wear explain luck rely sequels okay alongside sorted.,211,psych1 psych2 psych3 psych4 psych5 psych6 psych7 psych8 psych9 V0 post1 post2 post3,13,13,0,9
-psych.tel.se.325,psych,tel,se,325,Maze,In the space of a few minutes the dean prized the potential donors.,x-x-x pre suck sure can wear explain luck rely sequels okay alongside sorted.,212,psych1 psych2 psych3 psych4 psych5 psych6 psych7 psych8 psych9 V0 post1 post2 post3,13,13,0,9
-psych.atel.oe.326,psych,atel,oe,326,Maze,Without a doubt the leader thrilled the captive audience.,x-x-x pick songs dad china reptiles eat expands feedback.,213,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.atel.se.326,psych,atel,se,326,Maze,Without a doubt the leader treasured the captive audience.,x-x-x pick songs dad china reptiles eat expands feedback.,214,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.tel.oe.326,psych,tel,oe,326,Maze,Within a few minutes the leader thrilled the captive audience.,x-x-x pick songs dad china thinks reptiles eat expands feedback.,215,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.se.326,psych,tel,se,326,Maze,Within a few minutes the leader treasured the captive audience.,x-x-x pick songs dad china thinks reptiles eat expands feedback.,216,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.oe.327,psych,atel,oe,327,Maze,Surprisingly the psychic hypnotized the gullible man.,x-x-x guy admire abolishing pre totalled lots.,217,psych1 psych2 psych3 V0 post1 post2 post3,7,7,0,3
-psych.atel.se.327,psych,atel,se,327,Maze,Surprisingly the psychic appreciated the gullible man.,x-x-x guy admire abolishing pre totalled lots.,218,psych1 psych2 psych3 V0 post1 post2 post3,7,7,0,3
-psych.tel.oe.327,psych,tel,oe,327,Maze,In no time the psychic hypnotized the gullible man.,x-x-x guy admire baby abusing abolishing pre totalled lots.,219,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.tel.se.327,psych,tel,se,327,Maze,In no time the psychic appreciated the gullible man.,x-x-x guy admire baby abusing abolishing pre totalled lots.,220,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.atel.oe.328,psych,atel,oe,328,Maze,For a long time the orderly comforted the dying patient.,x-x-x hear looked fear thru harming worthless okay fails compete.,221,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.se.328,psych,atel,se,328,Maze,For a long time the orderly respected the dying patient.,x-x-x hear looked fear thru harming worthless okay fails compete.,222,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.oe.328,psych,tel,oe,328,Maze,Within ten minutes the orderly comforted the dying patient.,x-x-x hear looked fear thru worthless okay fails compete.,223,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.tel.se.328,psych,tel,se,328,Maze,Within ten minutes the orderly respected the dying patient.,x-x-x hear looked fear thru worthless okay fails compete.,224,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.atel.oe.329,psych,atel,oe,329,Maze,According to the journal the paralegal embarrassed the experienced lawyer.,x-x-x dad away offered lord adenosine undisclosed nice accountable forgot.,225,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.se.329,psych,atel,se,329,Maze,According to the journal the paralegal idolized the experienced lawyer.,x-x-x dad away offered lord adenosine undisclosed nice accountable forgot.,226,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.oe.329,psych,tel,oe,329,Maze,Within a few months the paralegal embarrassed the experienced lawyer.,x-x-x dad away offered lord adenosine undisclosed nice accountable forgot.,227,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.se.329,psych,tel,se,329,Maze,Within a few months the paralegal idolized the experienced lawyer.,x-x-x dad away offered lord adenosine undisclosed nice accountable forgot.,228,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.oe.330,psych,atel,oe,330,Maze,Obviously the dragon horrified the town's people.,x-x-x hear suck scathing hour ankles showed.,229,psych1 psych2 psych3 V0 post1 post2 post3,7,7,0,3
-psych.atel.se.330,psych,atel,se,330,Maze,Obviously the dragon detested the town's people.,x-x-x hear suck scathing hour ankles showed.,230,psych1 psych2 psych3 V0 post1 post2 post3,7,7,0,3
-psych.tel.oe.330,psych,tel,oe,330,Maze,Within one week the dragon horrified the town's people.,x-x-x hear suck blue lately scathing hour ankles showed.,231,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.tel.se.330,psych,tel,se,330,Maze,Within one week the dragon detested the town's people.,x-x-x hear suck blue lately scathing hour ankles showed.,232,psych1 psych2 psych3 psych4 psych5 V0 post1 post2 post3,9,9,0,5
-psych.atel.oe.331,psych,atel,oe,331,Maze,For no good reason the kids disturbed the quiet librarian.,x-x-x hear grow weird dad whom heretical seat ought calculate.,233,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.atel.se.331,psych,atel,se,331,Maze,For no good reason the kids distrusted the quiet librarian.,x-x-x hear grow weird dad whom heretical seat ought calculate.,234,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.oe.331,psych,tel,oe,331,Maze,Within a half hour the kids disturbed the quiet librarian.,x-x-x hear grow weird dad whom heretical seat ought calculate.,235,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
-psych.tel.se.331,psych,tel,se,331,Maze,Within a half hour the kids distrusted the quiet librarian.,x-x-x hear grow weird dad whom heretical seat ought calculate.,236,psych1 psych2 psych3 psych4 psych5 psych6 V0 post1 post2 post3,10,10,0,6
+label,cond1,cond2,cond3,cond4,item,sentence,alternative,group
+chow_rev_high_100_10,chow,rev,high,10,100,The travel agent recorded which innkeeper the guests had liked in his notebook.,x-x-x anyway proud surprise march despotism out behave ball floor risk miss populous.,list1
+chow_rev_low_100_10,chow,rev,low,10,100,The travel agent recorded which guests the innkeeper had liked in his notebook.,x-x-x anyway proud surprise march behave out despotism ball floor risk miss populous.,list2
+chow_rev_high_101_10,chow,rev,high,10,101,The trapeze artist indicated which lion the trainer had tamed for the circus.,x-x-x spanned senate suspicion enjoy undo okay condemn fact wares app ago resign.,list2
+chow_rev_low_101_10,chow,rev,low,10,101,The trapeze artist indicated which trainer the lion had tamed for the circus.,x-x-x spanned senate suspicion enjoy condemn okay undo fact wares app ago resign.,list1
+chow_rev_high_102_10,chow,rev,high,10,102,The birthday boy saw which friend the clown had scared at the party.,x-x-x whatever feet ways coast defend holy shale hall bureau anti yeah comes.,list1
+chow_rev_low_102_10,chow,rev,low,10,102,The birthday boy saw which clown the friend had scared at the party.,x-x-x whatever feet ways coast shale holy defend hall bureau anti yeah comes.,list2
+chow_rev_high_103_10,chow,rev,high,10,103,The opera composer revealed which pirate the singer had portrayed with the greatest finesse.,x-x-x eaten smashing sciences union tatter mom defend anti wholesale sold hear honestly burrows.,list2
+chow_rev_low_103_10,chow,rev,low,10,103,The opera composer revealed which singer the pirate had portrayed with the greatest finesse.,x-x-x eaten smashing sciences union defend mom tatter anti wholesale sold hear honestly burrows.,list1
+chow_rev_high_104_9,chow,rev,high,9,104,The newscaster confirmed which fugitive the policeman had arrested following the robbery.,x-x-x reconsider delicious watch farfetch bed allergies draw proposal resources grow endorse.,list1
+chow_rev_low_104_9,chow,rev,low,9,104,The newscaster confirmed which policeman the fugitive had arrested following the robbery.,x-x-x reconsider delicious watch allergies bed farfetch draw proposal resources grow endorse.,list2
+chow_rev_high_105_10,chow,rev,high,10,105,The royal cook asked which lord the chef had served for twenty years.,x-x-x yours okay miles super yeah guys nova non senate eyes regret title.,list2
+chow_rev_low_105_10,chow,rev,low,10,105,The royal cook asked which chef the lord had served for twenty years.,x-x-x yours okay miles super nova guys yeah non senate eyes regret title.,list1
+chow_rev_high_106_10,chow,rev,high,10,106,The family counselor understood which daughter the stepparent had abused on a daily basis.,x-x-x enough oxidation satellites china befriend mid transcribe fun escort join app items enter.,list1
+chow_rev_low_106_10,chow,rev,low,10,106,The family counselor understood which stepparent the daughter had abused on a daily basis.,x-x-x enough oxidation satellites china transcribe mid befriend fun escort join app items enter.,list2
+chow_rev_high_107_10,chow,rev,high,10,107,The art critic identified which model the artist had drawn in the studio.,x-x-x gone liquor condescend month swear zip decide jobs motor bed kill anyway.,list2
+chow_rev_low_107_10,chow,rev,low,10,107,The art critic identified which artist the model had drawn in the studio.,x-x-x gone liquor condescend month decide zip swear jobs motor bed kill anyway.,list1
+chow_rev_high_108_10,chow,rev,high,10,108,The wildlife curator mentioned which ape the zookeeper had fed some fresh fruit.,x-x-x reminded risking chocolate super noir okay screwball sir min lady marry knock.,list1
+chow_rev_low_108_10,chow,rev,low,10,108,The wildlife curator mentioned which zookeeper the ape had fed some fresh fruit.,x-x-x reminded risking chocolate super screwball okay noir sir min lady marry knock.,list2
+chow_rev_high_109_10,chow,rev,high,10,109,The costume designer confirmed which actor the barber had shaved for the part.,x-x-x undergo overseas bamboozle guess relax mid hereby word swings tax push held.,list2
+chow_rev_low_109_10,chow,rev,low,10,109,The costume designer confirmed which barber the actor had shaved for the part.,x-x-x undergo overseas bamboozle guess hereby mid relax word swings tax push held.,list1
+chow_rev_high_110_9,chow,rev,high,9,110,The investigator discovered which couple the abductor had taken during their vacation.,x-x-x transporting parliament carry forget holy lyricism yeah event review voice supplied.,list1
+chow_rev_low_110_9,chow,rev,low,9,110,The investigator discovered which abductor the couple had taken during their vacation.,x-x-x transporting parliament carry lyricism holy forget yeah event review voice supplied.,list2
+chow_rev_high_111_9,chow,rev,high,9,111,The librarian documented which celebrities the journalist had interviewed for the magazine.,x-x-x detecting hurricanes throw exterminate guys disqualify skin recruitment firm walk honestly.,list2
+chow_rev_low_111_9,chow,rev,low,9,111,The librarian documented which journalist the celebrities had interviewed for the magazine.,x-x-x detecting hurricanes throw disqualify guys exterminate skin recruitment firm walk honestly.,list1
+chow_rev_high_112_9,chow,rev,high,9,112,The historian documented which prince the assassin had killed in the 10th century.,x-x-x propelled ammunition phone loathe lots outweigh vote doctor box wish none putting.,list1
+chow_rev_low_112_9,chow,rev,low,9,112,The historian documented which assassin the prince had killed in the 10th century.,x-x-x propelled ammunition phone outweigh lots loathe vote doctor box wish none putting.,list2
+chow_rev_high_113_9,chow,rev,high,9,113,The broadcaster explained which contestant the judge had disqualified from the show.,x-x-x researching marijuana worth capitalize fat agree ice proclamation shop kid done.,list2
+chow_rev_low_113_9,chow,rev,low,9,113,The broadcaster explained which judge the contestant had disqualified from the show.,x-x-x researching marijuana worth agree fat capitalize ice proclamation shop kid done.,list1
+chow_rev_high_115_10,chow,rev,high,10,115,The security guard investigated which patrolman the loiterer had evaded for three hours.,x-x-x whatever tears quantitative sweet fecundity sir isometry pre valour song broke wants.,list1
+chow_rev_low_115_10,chow,rev,low,10,115,The security guard investigated which loiterer the patrolman had evaded for three hours.,x-x-x whatever tears quantitative sweet isometry sir fecundity pre valour song broke wants.,list2
+chow_rev_high_116_9,chow,rev,high,9,116,The farmer indicated which donkey the townsperson had bought in the neighboring village.,x-x-x learnt copyright heard refine anti rationalize yeah window cell pre transmitted herself.,list2
+chow_rev_low_116_9,chow,rev,low,9,116,The farmer indicated which townsperson the donkey had bought in the neighboring village.,x-x-x learnt copyright heard rationalize anti refine yeah window cell pre transmitted herself.,list1
+chow_rev_high_117_9,chow,rev,high,9,117,The reporter inquired which animals the groomer had cleaned with special shampoo.,x-x-x reminded cavities trust achieve holy dukedom mid sheriff uses edition bullpen.,list1
+chow_rev_low_117_9,chow,rev,low,9,117,The reporter inquired which groomer the animals had cleaned with special shampoo.,x-x-x reminded cavities trust dukedom holy achieve mid sheriff uses edition bullpen.,list2
+chow_rev_high_118_10,chow,rev,high,10,118,The dance instructor noticed which onlookers the performers had impressed in the audience.,x-x-x apart incomplete awesome agree reanimate lake undertaken lord ownership slow link suggests.,list2
+chow_rev_low_118_10,chow,rev,low,10,118,The dance instructor noticed which performers the onlookers had impressed in the audience.,x-x-x apart incomplete awesome agree undertaken lake reanimate lord ownership slow link suggests.,list1
+chow_rev_high_119_10,chow,rev,high,10,119,The jail keeper forgot which guard the prisoner had attacked in his cell.,x-x-x rely genres extent coast learn sir annually fact external bar ask whom.,list1
+chow_rev_low_119_10,chow,rev,low,10,119,The jail keeper forgot which prisoner the guard had attacked in his cell.,x-x-x rely genres extent coast annually sir learn fact external bar ask whom.,list2
+chow_rev_high_120_10,chow,rev,high,10,120,The Indian king identified which prince the elephant had trampled during the long journey.,x-x-x Caught okay completion focus partake fact reaffirm data modifier handle look fund protect.,list2
+chow_rev_low_120_10,chow,rev,low,10,120,The Indian king identified which elephant the prince had trampled during the long journey.,x-x-x Caught okay completion focus reaffirm fact partake data modifier handle look fund protect.,list1
+chow_rev_high_121_10,chow,rev,high,10,121,The undead king recognized which woman the zombie had bitten during the fight.,x-x-x peruse calm meaningful learn befit sir tonnes van suites coffee drop meant.,list1
+chow_rev_low_121_10,chow,rev,low,10,121,The undead king recognized which zombie the woman had bitten during the fight.,x-x-x peruse calm meaningful learn tonnes sir befit van suites coffee drop meant.,list2
+chow_rev_high_122_9,chow,rev,high,9,122,The nanny knew which housekeeper the billionaire had hired from their conversation.,x-x-x borne zero stock hospitalize wall tranquilize okay boost lake sense unbelievable.,list2
+chow_rev_low_122_9,chow,rev,low,9,122,The nanny knew which billionaire the housekeeper had hired from their conversation.,x-x-x borne zero stock tranquilize wall hospitalize okay boost lake sense unbelievable.,list1
+chow_rev_high_123_9,chow,rev,high,9,123,The policeman knew which suspect the detective had arrested for the recent crime.,x-x-x modernize cool apply approve mid reanimate sell classify hill tree create apart.,list1
+chow_rev_low_123_9,chow,rev,low,9,123,The policeman knew which detective the suspect had arrested for the recent crime.,x-x-x modernize cool apply reanimate mid approve sell classify hill tree create apart.,list2
+chow_rev_high_124_9,chow,rev,high,9,124,The priest knew which demon the exorcist had expelled with a cross.,x-x-x behave loss build versa sir dedicate nice ridicule dine vote apart.,list2
+chow_rev_low_124_9,chow,rev,low,9,124,The priest knew which exorcist the demon had expelled with a cross.,x-x-x behave loss build dedicate sir versa nice ridicule dine vote apart.,list1
+chow_rev_high_125_9,chow,rev,high,9,125,The four-year-old knew which hero the dragon had eaten for dinner last night.,x-x-x characterised duty study pray app bailey dad rainy anti thinks cent weird.,list1
+chow_rev_low_125_9,chow,rev,low,9,125,The four-year-old knew which dragon the hero had eaten for dinner last night.,x-x-x characterised duty study bailey app pray dad rainy anti thinks cent weird.,list2
+chow_rev_high_126_9,chow,rev,high,9,126,The researcher learned which whale the biologist had studied in the lab.,x-x-x contacting eastern china fined pre earmarked zero faculty join held cuts.,list2
+chow_rev_low_126_9,chow,rev,low,9,126,The researcher learned which biologist the whale had studied in the lab.,x-x-x contacting eastern china earmarked pre fined zero faculty join held cuts.,list1
+chow_rev_high_127_10,chow,rev,high,10,127,The military man knew which soldiers the general had promoted after their tour.,x-x-x whatever mid hill offer polarize pre realize cent workshop wants hoist none.,list1
+chow_rev_low_127_10,chow,rev,low,10,127,The military man knew which general the soldiers had promoted after their tour.,x-x-x whatever mid hill offer realize pre polarize cent workshop wants hoist none.,list2
+chow_rev_high_128_10,chow,rev,high,10,128,The judo master recognized which defender the assailant had attacked late last night.,x-x-x deem anyway legitimate sweet memorize cool uncombine sale shipping text cent weird.,list2
+chow_rev_low_128_10,chow,rev,low,10,128,The judo master recognized which assailant the defender had attacked late last night.,x-x-x deem anyway legitimate sweet wildfires cool uncombine sale shipping text cent weird.,list1
+chow_rev_high_129_10,chow,rev,high,10,129,The committee member guessed which advisors the president had appointed to the Cabinet.,x-x-x withstand animal noodles loved oncology off ourselves naps boyfriend torn soul Connect.,list1
+chow_rev_low_129_10,chow,rev,low,10,129,The committee member guessed which president the advisors had appointed to the Cabinet.,x-x-x withstand animal noodles loved ourselves off oncology naps boyfriend torn soul Connect.,list2
+chow_rev_high_130_10,chow,rev,high,10,130,The head nun explained which friar the temptress had seduced after Sunday mass.,x-x-x seen mph consumers click begin trip vizualize pre novella daunt Expand ford.,list3
+chow_rev_low_130_10,chow,rev,low,10,130,The head nun explained which temptress the friar had seduced after Sunday mass.,x-x-x seen mph consumers click visualize trip begin pre novella daunt Expand ford.,list4
+chow_rev_high_131_9,chow,rev,high,9,131,The naturalist observed which predators the deer had avoided by sleeping in the daytime.,x-x-x depolarize validate block encourage nice quit cash counsel care sandwich cast list greeted.,list4
+chow_rev_low_131_9,chow,rev,low,9,131,The naturalist observed which deer the predators had avoided by sleeping in the daytime.,x-x-x depolarize validate block quit nice encourage cash counsel care sandwich cast list greeted.,list3
+chow_rev_high_132_9,chow,rev,high,9,132,The producer observed which viewers the acrobats had impressed with their tricks.,x-x-x moreover disposal coast enforce mom palisade off framework yeah shall bailey.,list3
+chow_rev_low_132_9,chow,rev,low,9,132,The producer observed which acrobats the viewers had impressed with their tricks.,x-x-x moreover disposal coast palisade mom enforce off framework yeah shall bailey.,list4
+chow_rev_high_133_10,chow,rev,high,10,133,The parole officer confirmed which delinquent the psychologist had treated several times already.,x-x-x expire weather brilliant proud abbreviate hour restrengthen sad section digital throw awesome.,list4
+chow_rev_low_133_10,chow,rev,low,10,133,The parole officer confirmed which psychologist the delinquent had treated several times already.,x-x-x expire weather brilliant proud restrengthen hour abbreviate sad section digital throw awesome.,list3
+chow_rev_high_134_10,chow,rev,high,10,134,The police officer noted which jeweler the burglar had robbed on his spree.,x-x-x anyway healthy trees check impeach cup tropics west metric sad guy shear.,list3
+chow_rev_low_134_10,chow,rev,low,10,134,The police officer noted which burglar the jeweler had robbed on his spree.,x-x-x anyway healthy trees check tropics cup impeach west metric sad guy shear.,list4
+chow_rev_high_135_10,chow,rev,high,10,135,The restaurant owner forgot which customer the waitress had served during dinner yesterday.,x-x-x undertaken aware meters worth theorize lake dedicate non afraid hazard decide efficient.,list4
+chow_rev_low_135_10,chow,rev,low,10,135,The restaurant owner forgot which waitress the customer had served during dinner yesterday.,x-x-x undertaken aware meters worth dedicate lake theorize non afraid hazard decide efficient.,list3
+chow_rev_high_136_9,chow,rev,high,9,136,The columnist publicized which photographer the celebrity had punched in the nose.,x-x-x adulthood silverware gloat thanksgiving west ourselves sick gateway ride grow heal.,list3
+chow_rev_low_136_9,chow,rev,low,9,136,The columnist publicized which celebrity the photographer had punched in the nose.,x-x-x adulthood silverware gloat ourselves west thanksgiving sick gateway ride grow heal.,list4
+chow_rev_high_137_10,chow,rev,high,10,137,The park ranger documented which eagle the hunter had shot with a rifle.,x-x-x else chords fraudulent basis fetch off resign goal ball glad term deeds.,list4
+chow_rev_low_137_10,chow,rev,low,10,137,The park ranger documented which hunter the eagle had shot with a rifle.,x-x-x else chords fraudulent basis resign off fetch goal ball glad term deeds.,list3
+chow_rev_high_138_9,chow,rev,high,9,138,The sheriff recalled which locals the gangsters had robbed in a dark alleyway.,x-x-x sounded sensible worry unbag lady diversify anti clutch wind eye cent libretto.,list3
+chow_rev_low_138_9,chow,rev,low,9,138,The sheriff recalled which gangsters the locals had robbed in a dark alleyway.,x-x-x sounded sensible worry diversify lady unbag anti clutch wind eye cent libretto.,list4
+chow_rev_high_139_9,chow,rev,high,9,139,The ringmaster recognized which cheetah the tamer had trained three years ago.,x-x-x initialize convenient aware aground sick shunt glad reviews knows funny kept.,list4
+chow_rev_low_139_9,chow,rev,low,9,139,The ringmaster recognized which tamer the cheetah had trained three years ago.,x-x-x initialize convenient aware shunt sick aground glad reviews knows funny kept.,list3
+chow_rev_high_140_9,chow,rev,high,9,140,The queen recognized which nobleman the comedian had entertained with his jokes.,x-x-x yours healthcare learn heighten trip shutting mom linguistics vote app trans.,list3
+chow_rev_low_140_9,chow,rev,low,9,140,The queen recognized which comedian the nobleman had entertained with his jokes.,x-x-x yours healthcare learn shutting trip heighten mom linguistics vote app trans.,list4
+chow_rev_high_141_9,chow,rev,high,9,141,The farmhand recorded which goats the breeder had sold at the market.,x-x-x lengthen grateful agree garde hall deliver goal lady hope sit starts.,list4
+chow_rev_low_141_9,chow,rev,low,9,141,The farmhand recorded which breeder the goats had sold at the market.,x-x-x lengthen grateful agree deliver hall garde goal lady hope sit starts.,list3
+chow_rev_high_142_9,chow,rev,high,9,142,The firefighter reported which victim the paramedic had saved after the fire.,x-x-x endangering positive china submit lake celebrate hill union types knew glad.,list3
+chow_rev_low_142_9,chow,rev,low,9,142,The firefighter reported which paramedic the victim had saved after the fire.,x-x-x endangering positive china celebrate lake submit hill union types knew glad.,list4
+chow_rev_high_143_9,chow,rev,high,9,143,The camper reported which girl the bear had mauled in the forest.,x-x-x convex grateful wants sure yes suck slow steppe glad guy afraid.,list4
+chow_rev_low_143_9,chow,rev,low,9,143,The camper reported which bear the girl had mauled in the forest.,x-x-x convex grateful wants suck yes sure slow steppe glad guy afraid.,list3
+chow_rev_high_144_10,chow,rev,high,10,144,The ape researcher identified which chimpanzee the poacher had shot in the jungle.,x-x-x slid kilometers engagement start condescend cash ionized jobs sale feel wish entity.,list3
+chow_rev_low_144_10,chow,rev,low,10,144,The ape researcher identified which poacher the chimpanzee had shot in the jungle.,x-x-x slid kilometers engagement start ionized cash condescend jobs sale feel wish entity.,list4
+chow_rev_high_145_9,chow,rev,high,9,145,The parent saw which child the lifeguard had rescued from the pool.,x-x-x anyway fun guess cents lake cautioned sad squeeze text note none.,list4
+chow_rev_low_145_9,chow,rev,low,9,145,The parent saw which lifeguard the child had rescued from the pool.,x-x-x anyway fun guess cautioned lake cents sad squeeze text note none.,list3
+chow_rev_high_146_9,chow,rev,high,9,146,The sailor saw which whale the man had harpooned on the starboard side.,x-x-x browse pro month amend non glad slow diacritic tax guys nullified vote.,list3
+chow_rev_low_146_9,chow,rev,low,9,146,The sailor saw which man the whale had harpooned on the starboard side.,x-x-x browse pro month glad non amend slow diacritic tax guys nullified vote.,list4
+chow_rev_high_147_9,chow,rev,high,9,147,The boatman saw which shark the diver had speared just off the shore.,x-x-x imparts else guess sworn page facto east deduces hill vote rose reign.,list4
+chow_rev_low_147_9,chow,rev,low,9,147,The boatman saw which diver the shark had speared just off the shore.,x-x-x imparts else guess facto page sworn east deduces hill vote rose reign.,list3
+chow_rev_high_148_10,chow,rev,high,10,148,The high schooler heard which geek the jock had bullied in the hall.,x-x-x seen reissued lucky spend like mom bono sale firearm war link cent.,list3
+chow_rev_low_148_10,chow,rev,low,10,148,The high schooler heard which jock the geek had bullied in the hall.,x-x-x seen reissued lucky spend bono mom like sale firearm war link cent.,list4
+chow_rev_high_149_9,chow,rev,high,9,149,The housekeeper showed which mouse the cat had killed under the table.,x-x-x intermingle memory march above east got ways wonder scale drop users.,list4
+chow_rev_low_149_9,chow,rev,low,9,149,The housekeeper showed which cat the mouse had killed under the table.,x-x-x intermingle memory march got east above ways wonder scale drop users.,list3
+chow_rev_high_150_9,chow,rev,high,9,150,The documentarian showed which piglets the agriculturalist had raised at the farm.,x-x-x reinvestigate regret knows mystify hill arrondissements sick winner lord girl dumb.,list3
+chow_rev_low_150_9,chow,rev,low,9,150,The documentarian showed which agriculturalist the piglets had raised at the farm.,x-x-x reinvestigate regret knows arrondissements hill mystify sick winner lord girl dumb.,list4
+chow_rev_high_151_10,chow,rev,high,10,151,The campaign volunteer speculated which mayor the voters had elected by a landslide.,x-x-x whatever delicious definitive looks sandy hour recede word chicken sex fun enrolment.,list4
+chow_rev_low_151_10,chow,rev,low,10,151,The campaign volunteer speculated which voters the mayor had elected by a landslide.,x-x-x whatever delicious definitive looks recede hour sandy word chicken sex fun enrolment.,list3
+chow_rev_high_152_10,chow,rev,high,10,152,The prison warden guessed which jailer the inmate had stabbed with a knife.,x-x-x gotten palate cancers learn girder trip resent sale rebuild feel tell kings.,list3
+chow_rev_low_152_10,chow,rev,low,10,152,The prison warden guessed which inmate the jailer had stabbed with a knife.,x-x-x gotten palate cancers learn resent trip girder sale rebuild feel tell kings.,list4
+chow_rev_high_153_10,chow,rev,high,10,153,The bird watcher saw which photographer the hawk had attacked in the woods.,x-x-x rely cathode math month tranquillize gift lieu text shipping cost ran chose.,list4
+chow_rev_low_153_10,chow,rev,low,10,153,The bird watcher saw which hawk the photographer had attacked in the woods.,x-x-x rely cathode math month lieu gift tranquillize text shipping cost ran chose.,list3
+chow_rev_high_154_8,chow,rev,high,8,154,Tracy announced which applicant the administrator had chosen after the interview.,x-x-x everybody proud firepower slow heterogeneous big lovely movie than continues.,list3
+chow_rev_low_154_8,chow,rev,low,8,154,Tracy announced which administrator the applicant had chosen after the interview.,x-x-x everybody proud heterogeneous slow firepower big lovely movie than continues.,list4
+chow_rev_high_155_8,chow,rev,high,8,155,Tonia explained which housewife the conman had swindled over the phone.,x-x-x delicious march totalling holy accpet miss vaulting sale hear apart.,list4
+chow_rev_low_155_8,chow,rev,low,8,155,Tonia explained which conman the housewife had swindled over the phone.,x-x-x delicious march accept holy totalling miss vaulting sale hear apart.,list3
+chow_rev_high_156_8,chow,rev,high,8,156,Teresa knew which neighbor the parrot had bitten at the block party.,x-x-x cash spend hesitate fan hinder fun diaper miss kind cents worry.,list3
+chow_rev_low_156_8,chow,rev,low,8,156,Teresa knew which parrot the neighbor had bitten at the block party.,x-x-x cash spend hinder fan hesitate fun diaper miss kind cents worry.,list4
+chow_rev_high_157_8,chow,rev,high,8,157,Jack observed which passenger the conductor had removed from the train.,x-x-x duration basis deodorize mom harmonize fat dollars gift uses apply.,list4
+chow_rev_low_157_8,chow,rev,low,8,157,Jack observed which conductor the passenger had removed from the train.,x-x-x duration basis harmonize mom deodorize fat dollars gift uses apply.,list3
+chow_rev_high_158_10,chow,rev,high,10,158,The old widower remembered which villager the ghost had haunted for many years.,x-x-x nor harshly violations throw bespeckle cup hears easy heather war guys doing.,list3
+chow_rev_low_158_10,chow,rev,low,10,158,The old widower remembered which ghost the villager had haunted for many years.,x-x-x nor harshly violations throw hears cup bespeckle easy heather war guys doing.,list4
+chow_rev_high_159_10,chow,rev,high,10,159,The aid worker realized which refugees the philanthropist had helped to escape starvation.,x-x-x fail salmon imperial notes vaporize card illegitimatize wood window song lights competence.,list4
+chow_rev_low_159_10,chow,rev,low,10,159,The aid worker realized which philanthropist the refugees had helped to escape starvation.,x-x-x fail salmon imperial notes illegitimatize card vaporize wood window song lights competence.,list3
+chow_﻿sub_high_200_10,chow,sub,high,10,200,The aquarium visitor wondered which fish the penguins had eaten during the performance.,x-x-x authored sarcasm platinum basis beaten cash activism hot brook school goes essentially.,list1
+chow_sub_low_200_10,chow,sub,low,10,200,The aquarium visitor wondered which trainer the penguins had eaten during the performance.,x-x-x authored sarcasm platinum basis beaten cash activism hot brook school goes essentially.,list2
+chow_sub_high_201_9,chow,sub,high,9,201,The storyteller explained which dragon the prince had slain with his sword.,x-x-x antagonizes nutrition knows recline okay engage tax highs sort draw indie.,list2
+chow_sub_low_201_9,chow,sub,low,9,201,The storyteller explained which princess the prince had slain with his sword.,x-x-x antagonizes nutrition knows recline okay engage tax highs sort draw indie.,list1
+chow_sub_high_202_9,chow,sub,high,9,202,The superintendent overheard which tenant the landlord had evicted at the end of May.,x-x-x overcompensate passports worth gallon yeah donating non glucose unit glad born fat dad.,list1
+chow_sub_low_202_9,chow,sub,low,9,202,The superintendent overheard which realtor the landlord had evicted at the end of May.,x-x-x overcompensate passports worth ignite yeah donating non glucose unit glad born fat dad.,list2
+chow_sub_high_203_9,chow,sub,high,9,203,The butler speculated which guests the master had invited to the party.,x-x-x modify federalism learn ignite self myself pop contest am dad apply.,list2
+chow_sub_low_203_9,chow,sub,low,9,203,The butler speculated which servants the master had invited to the party.,x-x-x modify federalism learn arctic self myself pop contest am dad apply.,list1
+chow_sub_high_204_9,chow,sub,high,9,204,The priest mentioned which nonbeliever the nun had converted on her mission trip.,x-x-x afford advantage guess hospitalize trip aero big detective same mom nations math.,list1
+chow_sub_low_204_9,chow,sub,low,9,204,The priest mentioned which archbishop the nun had converted on her mission trip.,x-x-x afford advantage guess hospitalize trip aero big detective same mom nations math.,list2
+chow_sub_high_205_9,chow,sub,high,9,205,The sheriff boasted which horse the cowboy had ridden across the town.,x-x-x propose cholera beach alpine okay aboard glad sexist window luck shut.,list2
+chow_sub_low_205_9,chow,sub,low,9,205,The sheriff boasted which bandit the cowboy had ridden across the town.,x-x-x propose cholera beach alpine okay aboard glad sexist window luck shut.,list1
+chow_sub_high_206_9,chow,sub,high,9,206,Stevens revealed which clerk the manager had fired for being lazy.,x-x-x download scale loathe pre becomes wild shirt push enjoy boil.,list1
+chow_sub_low_206_9,chow,sub,low,9,206,Stevens revealed which customer the manager had fired for being lazy.,x-x-x download scale loathe pre becomes wild shirt push enjoy boil.,list2
+chow_sub_high_207_10,chow,sub,high,10,207,The secret serviceman concealed which ex-president the agent had protected from the terrorists.,x-x-x anyway malevolent beginners sweet averaging mid apply pre nutrition cent eat recommends.,list2
+chow_sub_low_207_10,chow,sub,low,10,207,The secret serviceman concealed which assassin the agent had protected from the terrorists.,x-x-x anyway malevolent beginners sweet averaging mid apply pre nutrition cent eat recommends.,list1
+chow_sub_high_208_10,chow,sub,high,10,208,The Roman emperor asked which god the gladiator had worshipped for strength in battle.,x-x-x seeks forgive track scene eroded ice socialize cool topography glad chairman sold doctor.,list1
+chow_sub_low_208_10,chow,sub,low,10,208,The Roman emperor asked which adversary the gladiator had worshipped for strength in battle.,x-x-x seeks forgive track scene eroded ice socialize cool topography glad chairman sold doctor.,list2
+chow_sub_high_209_9,chow,sub,high,9,209,The author revealed which maiden the hero had saved from the tower.,x-x-x anyway vehicles union agree yeah rely dad dozen page bill lined.,list2
+chow_sub_low_209_9,chow,sub,low,9,209,The author revealed which ogre the hero had saved from the tower.,x-x-x anyway vehicles union agree yeah rely dad dozen page bill lined.,list1
+chow_sub_high_210_9,chow,sub,high,9,210,The columnist publicized which billionaire the supermodel had married on public television.,x-x-x encourage vibrations judge extinguish sir antagonize okay studies text method impossible.,list1
+chow_sub_low_210_9,chow,sub,low,9,210,The columnist publicized which stylist the supermodel had married on public television.,x-x-x encourage vibrations judge extinguish sir antagonize okay studies text method impossible.,list2
+chow_sub_high_211_10,chow,sub,high,10,211,The Iranian scholar researched which camels the Persians had ridden across the desert.,x-x-x spelled lengths southbound proud obsess sale plugging mom carrot missed die gentle.,list2
+chow_sub_low_211_10,chow,sub,low,10,211,The Iranian scholar researched which soldiers the Persians had ridden across the desert.,x-x-x spellled lengths southbound proud obsess sale plugging mom carrot missed die gentle.,list1
+chow_sub_high_212_9,chow,sub,high,9,212,The beggar saw which leper the saint had cured in the street.,x-x-x juggle draw month runtime lots boost heat yacht sir buy happen.,list1
+chow_sub_low_212_9,chow,sub,low,9,212,The beggar saw which prophet the saint had cured in the street.,x-x-x juggle draw month runtime lots boost heat yacht sir buy happen.,list2
+chow_sub_high_213_9,chow,sub,high,9,213,The historian recorded which patriot the king had knighted at the ceremony.,x-x-x undergone download sleep noodles nice upon job idealist move bill studying.,list2
+chow_sub_low_213_9,chow,sub,low,9,213,The historian recorded which traitor the king had knighted at the ceremony.,x-x-x undergone download sleep noodles nice upon job idealist move bill studying.,list1
+chow_sub_high_214_9,chow,sub,high,9,214,The monk recalled which sinner the priest had forgiven in church yesterday.,x-x-x slid gameplay super scooter anti spends hill outdated base listen happening.,list1
+chow_sub_low_214_9,chow,sub,low,9,214,The monk recalled which cardinal the priest had forgiven in church yesterday.,x-x-x slid gameplay super scooter anti spends hill outdated base listen happening.,list2
+chow_sub_high_215_9,chow,sub,high,9,215,The scientist noted which antelope the lion had eaten for his dinner.,x-x-x achieving banks score tighten sure outs app elder hall step thinks.,list2
+chow_sub_low_215_9,chow,sub,low,9,215,The scientist noted which cub the lion had eaten for his dinner.,x-x-x achieving banks score tighten sure outs app elder hall step thinks.,list1
+chow_sub_high_216_9,chow,sub,high,9,216,The secretary confirmed which illustrator the author had hired for the new book.,x-x-x recommend delicious learn bounded sad caught late kings miss feet gets kept.,list1
+chow_sub_low_216_9,chow,sub,low,9,216,The secretary confirmed which readers the author had hired for the new book.,x-x-x recommend delicious learn bounded sad caught late kings miss feet gets kept.,list2
+chow_sub_high_217_9,chow,sub,high,9,217,The stenographer recorded which defendant the judge had sentenced to fifteen years.,x-x-x oversimplify stealing agree befriend fun shown wind invisible push commons funny.,list2
+chow_sub_low_217_9,chow,sub,low,9,217,The stenographer recorded which lawyer the judge had sentenced to fifteen years.,x-x-x oversimplify stealing agree befriend fun shown wind invisible push commons funny.,list1
+chow_sub_high_218_8,chow,sub,high,8,218,Spencer guessed which agent the actress had hired to promote her career.,x-x-x evasion photo capita yeah forgive six crack car tobacco kept posted.,list1
+chow_sub_low_218_8,chow,sub,low,8,218,Spencer guessed which admirer the actress had hired to promote her career.,x-x-x evasion photo capita yeah forgive six crack car tobacco kept posted.,list2
+chow_sub_high_219_9,chow,sub,high,9,219,The editor listed which orphans the philanthropist had adopted from the faraway place.,x-x-x afford polish worth resilience bad chromatography slow teenage nice walk recline trump.,list2
+chow_sub_low_219_9,chow,sub,low,9,219,The editor listed which volunteers the philanthropist had adopted from the faraway place.,x-x-x afford polish worth resilience bad chromatography slow teenage nice walk recline trump.,list1
+chow_sub_high_220_9,chow,sub,high,9,220,The farmer remembered which pig the butcher had slaughtered in his kitchen.,x-x-x relies irrelevant agree learn okay stealth link reformation turn guy becomes.,list1
+chow_sub_low_220_9,chow,sub,low,9,220,The farmer remembered which vegetarian the butcher had slaughtered in his kitchen.,x-x-x relies irrelevant agree learn okay stealth link reformation turn guy becomes.,list2
+chow_sub_high_221_9,chow,sub,high,9,221,The homeowner asked which insects the exterminator had killed when he came over.,x-x-x celebrate funny sweet wrought yeah nationalized pre videos pull anti laws size.,list2
+chow_sub_low_221_9,chow,sub,low,9,221,The homeowner asked which plumber the exterminator had killed when he came over.,x-x-x celebrate funny sweet wrought yeah nationalized pre videos pull anti laws size.,list1
+chow_sub_high_222_9,chow,sub,high,9,222,The barkeeper knew which barmaids the regulars had tipped for their drinks.,x-x-x boardings calm check disqualify sir coincide baby parcel rose agree occurs.,list1
+chow_sub_low_222_9,chow,sub,low,9,222,The barkeeper knew which troublemakers the regulars had tipped for their drinks.,x-x-x boardings calm check disqualify sir coincide baby parcel rose agree occurs.,list2
+chow_sub_high_224_9,chow,sub,high,9,224,The historian knew which princess the king had married at the royal palace.,x-x-x preparing hate fight afford miss lots fish channel sale sit notes trucks.,list2
+chow_sub_low_224_9,chow,sub,low,9,224,The historian knew which prince the king had married at the royal palace.,x-x-x preparing hate fight afford miss lots fish channel sale sit notes trucks.,list1
+chow_sub_high_225_9,chow,sub,high,9,225,The journalist reported which opponent the politician had defeated by a wide margin.,x-x-x accomplish pictures block invest okay anticipate ice feminine bag wear thus kneel,list1
+chow_sub_low_225_9,chow,sub,low,9,225,The journalist reported which voters the politician had defeated by a wide margin.,x-x-x accomplish pictures block invest okay anticipate ice feminine bag wear thus kneel,list2
+chow_sub_high_226_9,chow,sub,high,9,226,The parent noticed which insects the child had collected in a jar.,x-x-x anyway cheaper china arsenal cent twice fine determine wall sit reap.,list2
+chow_sub_low_226_9,chow,sub,low,9,226,The parent noticed which teacher the child had collected in a jar.,x-x-x anyway cheaper china arsenal cent twice fine determine wall sit reap.,list1
+chow_sub_high_227_9,chow,sub,high,9,227,The scribe recorded which loyalists the monarch had rewarded for their actions.,x-x-x gunned consumer enjoy acquire soul costing kids cylinder fat floor follows.,list1
+chow_sub_low_227_9,chow,sub,low,9,227,The scribe recorded which rebels the monarch had rewarded for their actions.,x-x-x gunned consumer enjoy acquire soul costing kids cylinder fat floor follows.,list2
+chow_sub_high_228_9,chow,sub,high,9,228,The teacher remembered which delinquent the principal had suspended for a week.,x-x-x imagine interstate reach nonpartisan lake disappear ago workforce yes goes thus.,list2
+chow_sub_low_228_9,chow,sub,low,9,228,The teacher remembered which overacheiver the principal had suspended for a week.,x-x-x imagine interstate reach nonpartisan lake disappear ago workforce yes goes thus.,list1
+chow_sub_high_229_8,chow,sub,high,8,229,Sally heard which patient the doctor had treated first thing this morning.,x-x-x worse goals gladden cent decide wood chamber drive march feet imagine.,list1
+chow_sub_low_229_8,chow,sub,low,8,229,Sally heard which nurse the doctor had treated first thing this morning.,x-x-x worse goals gladden cent decide wood chamber drive march feet imagine.,list2
+chow_sub_high_230_10,chow,sub,high,10,230,The beach bum saw which fish the seagulls had caught along the beach.,x-x-x apart flop glad repay reconsider sir mobilize mid winner knows dad tells.,list3
+chow_sub_low_230_10,chow,sub,low,10,230,The beach bum saw which picnickers the seagulls had caught along the beach.,x-x-x apart flop glad repay reconsider sir mobilize mid winner knows dad tells.,list4
+chow_sub_high_231_9,chow,sub,high,9,231,The circus-goer explained which juggler the clown had tripped in the center ring.,x-x-x articulates delicious sleep deliver hill fined anti rioting gun gift expect wage.,list4
+chow_sub_low_231_9,chow,sub,low,9,231,The circus-goer explained which child the clown had tripped in the center ring.,x-x-x articulates delicious sleep deliver hill fined anti rioting gun gift expect wage.,list3
+chow_sub_high_232_10,chow,sub,high,10,232,The football fan heard which cheerleader the quarterback had dated after the season.,x-x-x nauseate off apart worth incapsulate pre integrating soul guild worry hear appear.,list3
+chow_sub_low_232_10,chow,sub,low,10,232,The football fan heard which linebacker the quarterback had dated after the season.,x-x-x nauseate off apart worth incapsulate pre integrating soul guild worry hear appear.,list4
+chow_sub_high_233_10,chow,sub,high,10,233,The seasonal laborer marked which cows the farmer had milked early this morning.,x-x-x resisted misused finest learn treason case minded text sonata click miss federal.,list4
+chow_sub_low_233_10,chow,sub,low,10,233,The seasonal laborer marked which chickens the farmer had milked early this morning.,x-x-x resisted misused finest learn treason case minded text sonata click miss federal.,list3
+chow_sub_high_234_9,chow,sub,high,9,234,The secretary knew which manager the CEO had promoted from the old office.,x-x-x recommend hate visit mystify sun heal out workshop pick hear lose caught.,list3
+chow_sub_low_234_9,chow,sub,low,9,234,The secretary knew which investor the CEO had promoted from the old office.,x-x-x recommend hate visit mystify sun heal out workshop pick hear lose caught.,list4
+chow_sub_high_235_9,chow,sub,high,9,235,General Jones heard which terrorist the corporal had captured during the battle.,x-x-x Agree angel enjoy negotiate easy optimize less speakers spring jobs handle.,list4
+chow_sub_low_235_9,chow,sub,low,9,235,General Jones heard which comrade the corporal had captured during the battle.,x-x-x Agree angel enjoy negotiate easy optimize less speakers spring jobs handle.,list3
+chow_sub_high_236_8,chow,sub,high,8,236,Jason saw which nerd the teacher had praised for his good behavior.,x-x-x lady month verify mid anybody anti courier stop plus took honestly.,list3
+chow_sub_low_236_8,chow,sub,low,8,236,Jason saw which rascal the teacher had praised for his good behavior.,x-x-x lady month verify mid anybody anti courier stop plus took honestly.,list4
+chow_sub_high_237_8,chow,sub,high,8,237,Jim forgot which addict the therapist had treated in his last session.,x-x-x fallen river loathe cent whichever sea figures sort fell none minimum.,list4
+chow_sub_low_237_8,chow,sub,low,8,237,Jim forgot which doctor the therapist had treated in his last session.,x-x-x fallen river loathe cent whichever sea figures sort fell none minimum.,list3
+chow_sub_high_238_9,chow,sub,high,9,238,The announcer stated which teammate the player had replaced for the upcoming game.,x-x-x personify lovely learn begin yeah caught fine websites app miss bothered nice.,list3
+chow_sub_low_238_9,chow,sub,low,9,238,The announcer stated which rival the player had replaced for the upcoming game.,x-x-x personify lovely learn begin yeah caught fine websites app miss bothered nice.,list4
+chow_sub_high_239_11,chow,sub,high,11,239,The crafts fair manager asked which cows the leatherworker had skinned to make his bags.,x-x-x deploy cops lighten click feels achieving ball disfranchised anti tornado walk data miss laid.,list4
+chow_sub_low_239_11,chow,sub,low,11,239,The crafts fair manager asked which customers the leatherworker had skinned to make his bags.,x-x-x deploy cops lighten click feels achieving ball disfranchised anti tornado walk data miss laid.,list3
+chow_sub_high_240_10,chow,sub,high,10,240,The police woman recognized which officer the lieutenant had promoted to a higher position.,x-x-x anyway china treatments basis chill fun conducting good timeline view guys starts programs.,list3
+chow_sub_low_240_10,chow,sub,low,10,240,The police woman recognized which thief the lieutenant had promoted to a higher position.,x-x-x anyway china treatments basis chill fun conducting good timeline view guys starts programs.,list4
+chow_sub_high_241_9,chow,sub,high,9,241,The reviewer forgot which researchers the authors had cited in their paper.,x-x-x generate horses learn recommend ill recover app steak sit ended carry.,list4
+chow_sub_low_241_9,chow,sub,low,9,241,The reviewer forgot which mice the authors had cited in their paper.,x-x-x generate horses learn recommend ill recover app steak sit ended carry.,list3
+chow_sub_high_242_11,chow,sub,high,11,242,The swim team captain recalled which champion the swimmer had defeated at last week's race.,x-x-x take fear awesome township share imprison holy revoked cat cemetery eat gone median glad.,list3
+chow_sub_low_242_11,chow,sub,low,11,242,The swim team captain recalled which lifeguard the swimmer had defeated at last week's race.,x-x-x take fear awesome township share imprison holy revoked cat cemetery eat gone median glad.,list4
+chow_sub_high_243_9,chow,sub,high,9,243,The zoologist marked which pup the seal had birthed over the weekend.,x-x-x apologize throne knows enact mine took yes gliders lord jobs imagine.,list4
+chow_sub_low_243_9,chow,sub,low,9,243,The zoologist marked which walrus the seal had birthed over the weekend.,x-x-x apologize throne knows enact mine took yes gliders lord jobs imagine.,list3
+chow_sub_high_244_9,chow,sub,high,9,244,The captain realized which stowaway the sailor had hidden in the cargo hold.,x-x-x imagine moderate feels impeach mid hiking dark sample trip app euros cent.,list3
+chow_sub_low_244_9,chow,sub,low,9,244,The captain realized which pirate the sailor had hidden in the cargo hold.,x-x-x imagine moderate feels impeach mid hiking dark sample trip app euros cent.,list4
+chow_sub_high_245_9,chow,sub,high,9,245,The father recalled which girl the boy had dated in junior high.,x-x-x anyway gameplay floor lose holy thus gold pulse lord retain feel.,list4
+chow_sub_low_245_9,chow,sub,low,9,245,The father recalled which dog the boy had dated in junior high.,x-x-x anyway gameplay floor lose holy thus gold pulse lord retain feel.,list3
+chow_sub_high_246_10,chow,sub,high,10,246,The Japanese scientists showed which salespeople the robots had replaced in the last decade.,x-x-x Somebody fahrenheit memory march undisclose kid govern cash feminist note vote goes walked.,list3
+chow_sub_low_246_10,chow,sub,low,10,246,The Japanese scientists showed which patients the robots had replaced in the last decade.,x-x-x Somebody fahrenheit memory march undisclose kid govern cash feminist note vote goes walked.,list4
+chow_sub_high_247_9,chow,sub,high,9,247,The principal forgot which student the teacher had disciplined after school yesterday.,x-x-x preparing beaten photo finish hill follows ball skyscrapers smart happen mountains.,list4
+chow_sub_low_247_9,chow,sub,low,9,247,The principal forgot which parent the teacher had disciplined after school yesterday.,x-x-x preparing beaten photo finish hill follows ball skyscrapers smart happen mountains.,list3
+chow_sub_high_248_9,chow,sub,high,9,248,The shepherd saw which lamb the sheep had birthed by the barn.,x-x-x evaluate fun month walk page begun app gliders hall hear cite.,list3
+chow_sub_low_248_9,chow,sub,low,9,248,The shepherd saw which predator the sheep had birthed by the barn.,x-x-x evaluate fun month walk page begun app gliders hall hear cite.,list4
+chow_sub_high_249_9,chow,sub,high,9,249,The snoop determined which bouncer the alcoholic had punched last Friday night.,x-x-x fetch convenient guess levitate gold separates lots panther lord Behalf sorry.,list4
+chow_sub_low_249_9,chow,sub,low,9,249,The snoop determined which psychologist the alcoholic had punched last Friday night.,x-x-x fetch convenient guess levitate gold separates lots panther lord Behalf sorry.,list3
+chow_sub_high_250_8,chow,sub,high,8,250,Carla inquired which exterminator the landlord had used in the apartment.,x-x-x censuses built absentia holy moreover cold army bar foot continues.,list3
+chow_sub_low_250_8,chow,sub,low,8,250,Carla inquired which neighbor the landlord had used in the apartment.,x-x-x censuses built absentia holy moreover cold army bar foot continues.,list4
+chow_sub_high_251_8,chow,sub,high,8,251,Karen learned which teenager the mother had grounded for disobeying her.,x-x-x summary enjoy disagree off except till infinity idea congresses seen.,list4
+chow_sub_low_251_8,chow,sub,low,8,251,Karen learned which baby the mother had grounded for disobeying her.,x-x-x summary enjoy disagree off except till infinity idea congresses seen.,list3
+chow_sub_high_252_8,chow,sub,high,8,252,Sandra observed which biologists the zookeeper had consulted about the food.,x-x-x portable march sermonize bag undermine easy hardcover sense bet gets.,list3
+chow_sub_low_252_8,chow,sub,low,8,252,Sandra observed which gorillas the zookeeper had consulted about the food.,x-x-x portable march sermonize bag undermine easy hardcover sense bet gets.,list4
+chow_sub_high_253_9,chow,sub,high,9,253,The anthropologist discovered which animal the caveman had hunted with flint arrows.,x-x-x substantialize possession enjoy hurting nice devotes cash crates hall reuse dubbed.,list4
+chow_sub_low_253_9,chow,sub,low,9,253,The anthropologist discovered which goddess the caveman had hunted with flint arrows.,x-x-x substantialize possession enjoy hurting nice devotes cash crates hall reuse dubbed.,list3
+chow_sub_high_254_9,chow,sub,high,9,254,The mother wondered which trick-or-treaters the neighbor had scared with his costume.,x-x-x happen traction field transcribe sir delivers push senate stay link midwest.,list3
+chow_sub_low_254_9,chow,sub,low,9,254,The mother wondered which milkman the neighbor had scared with his costume.,x-x-x happen traction field transcribe sir delivers push senate stay link midwest.,list4
+chow_sub_high_255_10,chow,sub,high,10,255,The movie buff speculated which actor the stuntman had portrayed in the opening scene.,x-x-x apart bony ordination front billion loss civilize mean celebrate sit pull require doubt.,list4
+chow_sub_low_255_10,chow,sub,low,10,255,The movie buff speculated which director the stuntman had portrayed in the opening scene.,x-x-x apart bony ordination front billion loss civilize mean celebrate sit pull require doubt.,list3
+chow_sub_high_256_9,chow,sub,high,9,256,The researcher recorded which chimpanzee the biologist had tagged to be studied.,x-x-x formulated vacation china bamboozle mid delegated dad pardon bus guy podcast.,list3
+chow_sub_low_256_9,chow,sub,low,9,256,The researcher recorded which assistant the biologist had tagged to be studied.,x-x-x formulated vacation china bamboozle mid delegated dad pardon bus guy podcast.,list4
+chow_sub_high_257_9,chow,sub,high,9,257,The sentry knew which guard the captain had fired from the position.,x-x-x accuse lose moved materialize page follows kids novel bill eat farfetch.,list4
+chow_sub_low_257_9,chow,sub,low,9,257,The sentry knew which townsperson the captain had fired from the position.,x-x-x accuse lose moved materialize page follows kids novel bill eat farfetch.,list3
+chow_sub_high_258_10,chow,sub,high,10,258,The team manager knew which athlete the officials had penalized for being unsportsmanlike.,x-x-x upon imagine hate carry embroil hour regarding nine orphanage case brain morphologically.,list3
+chow_sub_low_258_10,chow,sub,low,10,258,The team manager knew which umpire the officials had penalized for being unsportsmanlike.,x-x-x upon imagine hate carry embroil hour regarding nine orphanage case brain morphologically.,list4
+chow_sub_high_259_10,chow,sub,high,10,259,The theater owner described which spectators the magician had amazed with his tricks.,x-x-x propose weird happening agree federalize page evacuate jobs broker lord door inform.,list4
+chow_sub_low_259_10,chow,sub,low,10,259,The theater owner described which rabbit the magician had amazed with his tricks.,x-x-x propose weird happening agree federalize page evacuate jobs broker lord door inform.,list3
+kutas_low_rel_eq_301,kutas,low,rel,eq,301,She put on her high heeled boots.,x-x-x sale plan kid yeah cloves firms.,list1
+kutas_high_best_eq_301,kutas,high,best,eq,301,She put on her high heeled shoes.,x-x-x sale plan kid yeah cloves firms.,list2
+kutas_low_rel_eq_310,kutas,low,rel,eq,310,The dirty clothes were piled up in the laundry hamper.,x-x-x yours whoever goal vitro deal vote sir reacted gamers.,list2
+kutas_high_best_eq_310,kutas,high,best,eq,310,The dirty clothes were piled up in the laundry basket.,x-x-x yours whoever goal vitro deal vote sir reacted gamers.,list1
+kutas_low_unrel_eq_314,kutas,low,unrel,eq,314,One of the scouts did not know the way and got hurt.,x-x-x eat pull thrive irk yeah okay won here pre app site.,list1
+kutas_high_best_eq_314,kutas,high,best,eq,314,One of the scouts did not know the way and got lost.,x-x-x fun pull thrive irk yeah okay won here pre app site.,list2
+kutas_low_unrel_eq_320,kutas,low,unrel,eq,320,I added my name to the top of the wall.,x-x-x china pre else pick app sent shut glad gets.,list2
+kutas_high_best_eq_320,kutas,high,best,eq,320,I added my name to the top of the list.,x-x-x china pre else pick app sent shut glad gets.,list1
+kutas_low_unrel_eq_326,kutas,low,unrel,eq,326,The prisoners were planning their picnic.,x-x-x undermine okay congress allow topped.,list1
+kutas_high_best_eq_326,kutas,high,best,eq,326,The prisoners were planning their escape.,x-x-x undermine okay congress allow topped.,list2
+kutas_low_unrel_eq_331,kutas,low,unrel,eq,331,They went as far as they dared.,x-x-x glad keep kill guy uses minds.,list2
+kutas_high_best_eq_331,kutas,high,best,eq,331,They went as far as they could.,x-x-x glad keep kill guy uses minds.,list1
+kutas_low_unrel_eq_332,kutas,low,unrel,eq,332,Mary looked at her watch to check the band.,x-x-x option ones yeah filed okay wants term does.,list1
+kutas_high_best_eq_332,kutas,high,best,eq,332,Mary looked at her watch to check the time.,x-x-x option ones yeah filed okay wants term does.,list2
+kutas_low_unrel_eq_340,kutas,low,unrel,eq,340,The barbells the strong man lifted were very rusty.,x-x-x iterated okay inches yeah tonnes miss knew tally.,list2
+kutas_high_best_eq_340,kutas,high,best,eq,340,The barbells the strong man lifted were very heavy.,x-x-x iterated okay inches yeah tonnes miss knew tally.,list1
+kutas_low_rel_eq_341,kutas,low,rel,eq,341,He studied a long time so he would pass his tests.,x-x-x raising knew runs hurt anti spot sorry cell girl lakes.,list1
+kutas_high_best_eq_341,kutas,high,best,eq,341,He studied a long time so he would pass his exams.,x-x-x raising knew runs hurt anti spot sorry cell girl lakes.,list2
+kutas_low_unrel_eq_354,kutas,low,unrel,eq,354,John was so exhausted he took a vacation to get some help.,x-x-x fat am spotlight lord else guy abstract none sir page each.,list2
+kutas_high_best_eq_354,kutas,high,best,eq,354,John was so exhausted he took a vacation to get some rest.,x-x-x fat am spotlight lord else guy abstract none sir page each.,list1
+kutas_low_rel_eq_374,kutas,low,rel,eq,374,The tenants were evicted when they did not pay the last month's bill.,x-x-x modeled zero catcher cold give goal wall lake tree both deflect anti.,list1
+kutas_high_best_eq_374,kutas,high,best,eq,374,The tenants were evicted when they did not pay the last month's rent.,x-x-x modeled zero catcher cold give goal wall lake tree both deflect anti.,list2
+kutas_low_rel_eq_375,kutas,low,rel,eq,375,The wet towels were hung on the line to air.,x-x-x deny uncork luck dish died rule hate risk dear.,list2
+kutas_high_best_eq_375,kutas,high,best,eq,375,The wet towels were hung on the line to dry.,x-x-x deny uncork luck dish died rule hate risk dear.,list1
+kutas_low_rel_eq_387,kutas,low,rel,eq,387,While skiing Randy broke his arm.,x-x-x expire fetch mouth rose vice.,list1
+kutas_high_best_eq_387,kutas,high,best,eq,387,While skiing Randy broke his leg.,x-x-x expire fetch mouth rose vice.,list2
+kutas_low_rel_eq_395,kutas,low,rel,eq,395,The girl knew most of the words for her spelling quiz.,x-x-x else cool shut bet post enter cash guy minimize acre.,list2
+kutas_high_best_eq_395,kutas,high,best,eq,395,The girl knew most of the words for her spelling test.,x-x-x else cool shut bet post enter cash guy minimize acre.,list1
+kutas_low_unrel_eq_401,kutas,low,unrel,eq,401,The tenants decided to take their landlord to lunch.,x-x-x mystify airport fire days ended insulted eat funny.,list1
+kutas_high_best_eq_401,kutas,high,best,eq,401,The tenants decided to take their landlord to court.,x-x-x mystify airport fire days ended insulted eat funny.,list2
+kutas_low_rel_eq_402,kutas,low,rel,eq,402,They're out in the garden pulling roots.,x-x-x link app thus suffer nominee atlas.,list2
+kutas_high_best_eq_402,kutas,high,best,eq,402,They're out in the garden pulling weeds.,x-x-x link app thus suffer nominee atlas.,list1
+kutas_low_rel_eq_404,kutas,low,rel,eq,404,She sewed the button on with needle and black string.,x-x-x glyph guy indeed hate fund exodus fun worth deeply.,list1
+kutas_high_best_eq_404,kutas,high,best,eq,404,She sewed the button on with needle and black thread.,x-x-x glyph guy indeed hate fund exodus fun worth deeply.,list2
+kutas_low_unrel_eq_414,kutas,low,unrel,eq,414,She went to the salon to color her toes.,x-x-x kill kids nor tuned cost types send vary.,list2
+kutas_high_best_eq_414,kutas,high,best,eq,414,She went to the salon to color her hair.,x-x-x kill kids nor tuned cost types send vary.,list1
+kutas_low_unrel_eq_418,kutas,low,unrel,eq,418,Sam could not believe her story was true.,x-x-x worse nice opening hair click our push.,list1
+kutas_high_best_eq_418,kutas,high,best,eq,418,Sam could not believe her story was told.,x-x-x worse nice opening hair click our push.,list2
+kutas_low_rel_eq_424,kutas,low,rel,eq,424,New York is a very busy town.,x-x-x ride else bill gave ends seen.,list2
+kutas_high_best_eq_424,kutas,high,best,eq,424,New York is a very busy city.,x-x-x ride else bill gave ends seen.,list1
+kutas_low_rel_eq_426,kutas,low,rel,eq,426,The gas station is about two miles down the path.,x-x-x suck weekend zip spend idea feels post wife firm.,list1
+kutas_high_best_eq_426,kutas,high,best,eq,426,The gas station is about two miles down the road.,x-x-x suck weekend zip spend idea feels post wife firm.,list2
+kutas_low_unrel_eq_432,kutas,low,unrel,eq,432,None of his books made much sense.,x-x-x eyes low avoid feet bent wants.,list2
+kutas_high_best_eq_432,kutas,high,best,eq,432,None of his books made much money.,x-x-x eyes low avoid feet bent wants.,list1
+kutas_low_rel_eq_439,kutas,low,rel,eq,439,Captain Sheir wanted to stay with the sinking boat.,x-x-x renew senate dog cell hate has applies grow.,list1
+kutas_high_best_eq_439,kutas,high,best,eq,439,Captain Sheir wanted to stay with the sinking ship.,x-x-x renew senate dog cell hate has applies grow.,list2
+kutas_low_rel_eq_463,kutas,low,rel,eq,463,She made a salami sandwich on wheat rolls.,x-x-x pain eat aligns colleges arms ought filed.,list2
+kutas_high_best_eq_463,kutas,high,best,eq,463,She made a salami sandwich on wheat bread.,x-x-x pain eat aligns colleges arms ought filed.,list1
+kutas_low_unrel_eq_470,kutas,low,unrel,eq,470,They saw the lightning and heard the screams.,x-x-x east hour comprises fund grade goal unaware.,list1
+kutas_high_best_eq_470,kutas,high,best,eq,470,They saw the lightning and heard the thunder.,x-x-x east hour comprises fund grade goal unaware.,list2
+kutas_low_unrel_eq_472,kutas,low,unrel,eq,472,The squirrel stored some nuts in the hole.,x-x-x marketed liking walk edit male meet dear.,list2
+kutas_high_best_eq_472,kutas,high,best,eq,472,The squirrel stored some nuts in the tree.,x-x-x marketed liking walk edit male meet dear.,list1
+kutas_low_unrel_eq_474,kutas,low,unrel,eq,474,The car pulled up and took the last parking meter.,x-x-x ago random join king lady cell kept predict mercy.,list1
+kutas_high_best_eq_474,kutas,high,best,eq,474,The car pulled up and took the last parking space.,x-x-x ago random join king lady cell kept predict mercy.,list2
+kutas_high_best_bestlonger_302,kutas,high,best,bestlonger,302,The cub scouts needed a new den mother.,x-x-x swam realms nature vs laws sued facts.,list2
+kutas_low_unrel_bestlonger_302,kutas,low,unrel,bestlonger,302,The cub scouts needed a new den chair.,x-x-x swam realms nature vs laws sued facts.,list1
+kutas_low_unrel_bestlonger_313,kutas,low,unrel,bestlonger,313,She's afraid of deep water because she can't see.,x-x-x border rise cent speak century rule agent late.,list1
+kutas_high_best_bestlonger_313,kutas,high,best,bestlonger,313,She's afraid of deep water because she can't swim.,x-x-x border rise cent speak century rule agent late.,list2
+kutas_low_rel_bestlonger_318,kutas,low,rel,bestlonger,318,They heated the pool with solar power.,x-x-x ethics mom lets knew seeks click.,list2
+kutas_high_best_bestlonger_318,kutas,high,best,bestlonger,318,They heated the pool with solar energy.,x-x-x ethics mom lets knew seeks click.,list1
+kutas_low_unrel_bestlonger_319,kutas,low,unrel,bestlonger,319,The baby weighed six pounds at noon.,x-x-x fail methane sale reform lots crap.,list1
+kutas_high_best_bestlonger_319,kutas,high,best,bestlonger,319,The baby weighed six pounds at birth.,x-x-x fail methane sale reform lots crap.,list2
+kutas_low_rel_bestlonger_328,kutas,low,rel,bestlonger,328,The office held a new year's eve bash.,x-x-x anyway pull knew grow ripped eats taste.,list2
+kutas_high_best_bestlonger_328,kutas,high,best,bestlonger,328,The office held a new year's eve party.,x-x-x anyway pull knew grow ripped eats taste.,list1
+kutas_low_unrel_bestlonger_339,kutas,low,unrel,bestlonger,339,When the shooting started they ran for help.,x-x-x sir whatever healthy hill cat give basis.,list1
+kutas_high_best_bestlonger_339,kutas,high,best,bestlonger,339,When the shooting started they ran for cover.,x-x-x sir whatever healthy hill cat give basis.,list2
+kutas_low_unrel_bestlonger_353,kutas,low,unrel,bestlonger,353,On hot days many people sun themselves on the roof.,x-x-x glad whom fund itself gym investment post guys helps.,list2
+kutas_high_best_bestlonger_353,kutas,high,best,bestlonger,353,On hot days many people sun themselves on the beach.,x-x-x glad whom fund itself gym investment post guys helps.,list1
+kutas_low_rel_bestlonger_355,kutas,low,rel,bestlonger,355,William went to the bank to borrow some cash.,x-x-x door bag guy none fans wished face comes.,list1
+kutas_high_best_bestlonger_355,kutas,high,best,bestlonger,355,William went to the bank to borrow some money.,x-x-x door bag guy none fans wished face comes.,list2
+kutas_low_rel_bestlonger_382,kutas,low,rel,bestlonger,382,Cathy was glad that Friday was payday because she was poor.,x-x-x miss ford trip Senate ways invade systems add goal mark.,list2
+kutas_high_best_bestlonger_382,kutas,high,best,bestlonger,382,Cathy was glad that Friday was payday because she was broke.,x-x-x miss ford trip Senate ways invade systems add goal mark.,list1
+kutas_low_rel_bestlonger_383,kutas,low,rel,bestlonger,383,George made out a check to pay the monthly telephone fee.,x-x-x gift miss girl begin hurt mom eyes decides dominated male.,list1
+kutas_high_best_bestlonger_383,kutas,high,best,bestlonger,383,George made out a check to pay the monthly telephone bill.,x-x-x gift miss girl begin hurt mom eyes decides dominated male.,list2
+kutas_low_unrel_bestlonger_390,kutas,low,unrel,bestlonger,390,George kept his pet on a diet.,x-x-x sale cup fled yes done font.,list2
+kutas_high_best_bestlonger_390,kutas,high,best,bestlonger,390,George kept his pet on a leash.,x-x-x sale cup fled yes done font.,list1
+kutas_low_unrel_bestlonger_393,kutas,low,unrel,bestlonger,393,Jeff felt sorry but it was not his turn.,x-x-x lady click fund lake own park ship trees.,list1
+kutas_high_best_bestlonger_393,kutas,high,best,bestlonger,393,Jeff felt sorry but it was not his fault.,x-x-x lady click fund lake own park ship trees.,list2
+kutas_low_unrel_bestlonger_396,kutas,low,unrel,bestlonger,396,They asked Dave to play tennis but he was too good.,x-x-x agent Caps bet laws virgin die hill real act page.,list2
+kutas_high_best_bestlonger_396,kutas,high,best,bestlonger,396,They asked Dave to play tennis but he was too tired.,x-x-x agent Caps bet laws virgin die hill real act page.,list1
+kutas_low_unrel_bestlonger_415,kutas,low,unrel,bestlonger,415,Brian poured some sauce on his rare meat.,x-x-x scarce spot filed none jobs dean faced.,list1
+kutas_high_best_bestlonger_415,kutas,high,best,bestlonger,415,Brian poured some sauce on his rare steak.,x-x-x scarce spot filed none jobs dean faced.,list2
+kutas_low_rel_bestlonger_419,kutas,low,rel,bestlonger,419,Tim threw a rock and broke the glass.,x-x-x anime know whom paid agent anti begin.,list2
+kutas_high_best_bestlonger_419,kutas,high,best,bestlonger,419,Tim threw a rock and broke the window.,x-x-x anime know whom paid agent anti begin.,list1
+kutas_low_unrel_bestlonger_423,kutas,low,unrel,bestlonger,423,The lawyer feared that his client would be found crazy.,x-x-x afford graves hear miss funded earth west scene survey.,list1
+kutas_high_best_bestlonger_423,kutas,high,best,bestlonger,423,The lawyer feared that his client would be found guilty.,x-x-x afford graves hear miss funded earth west scene survey.,list2
+kutas_low_unrel_bestlonger_436,kutas,low,unrel,bestlonger,436,The boat passed easily under the falls.,x-x-x rely senate agency needs dad teach.,list2
+kutas_high_best_bestlonger_436,kutas,high,best,bestlonger,436,The boat passed easily under the bridge.,x-x-x rely senate agency needs dad teach.,list1
+kutas_low_rel_bestlonger_451,kutas,low,rel,bestlonger,451,He bought the chocolates at the candy shop.,x-x-x supply fall hurricanes oh pro skies civil.,list1
+kutas_high_best_bestlonger_451,kutas,high,best,bestlonger,451,He bought the chocolates at the candy store.,x-x-x supply fall hurricanes oh pro skies civil.,list2
+kutas_low_rel_bestlonger_452,kutas,low,rel,bestlonger,452,After the accident they went for aid.,x-x-x app contains cash gold cost came.,list2
+kutas_high_best_bestlonger_452,kutas,high,best,bestlonger,452,After the accident they went for help.,x-x-x app contains cash gold cost came.,list1
+kutas_low_unrel_bestlonger_459,kutas,low,unrel,bestlonger,459,It was important to be on top.,x-x-x holy attention wish ones shop gone.,list1
+kutas_high_best_bestlonger_459,kutas,high,best,bestlonger,459,It was important to be on time.,x-x-x holy attention wish ones shop gone.,list2
+kutas_low_unrel_bestlonger_471,kutas,low,unrel,bestlonger,471,It felt much colder when the sun was behind a tree.,x-x-x ways runs tomato nine wish nor risk doctor got leads.,list2
+kutas_high_best_bestlonger_471,kutas,high,best,bestlonger,471,It felt much colder when the sun was behind a cloud.,x-x-x ways runs tomato nine wish nor risk doctor got leads.,list1
+kutas_low_rel_bestshorter_304,kutas,low,rel,bestshorter,304,The pizza was too hot to chew.,x-x-x alike hope hour rate said mob.,list1
+kutas_high_best_bestshorter_304,kutas,high,best,bestshorter,304,The pizza was too hot to eat.,x-x-x alike hope hour rate said mob.,list2
+kutas_low_rel_bestshorter_307,kutas,low,rel,bestshorter,307,The ship disappeared into the thick mist.,x-x-x suck controversy sell dad threw lag.,list2
+kutas_high_best_bestshorter_307,kutas,high,best,bestshorter,307,The ship disappeared into the thick fog.,x-x-x suck controversy sell dad threw lag.,list1
+kutas_low_rel_bestshorter_308,kutas,low,rel,bestshorter,308,Nothing can beat a bowl of hot broth.,x-x-x cast wood mid aids met ran scans.,list1
+kutas_high_best_bestshorter_308,kutas,high,best,bestshorter,308,Nothing can beat a bowl of hot soup.,x-x-x cast wood mid aids met ran scans.,list2
+kutas_low_rel_bestshorter_323,kutas,low,rel,bestshorter,323,The clerk put the groceries in the shopping carts.,x-x-x borne pre sir adulthood knew nor humanity undo.,list2
+kutas_high_best_bestshorter_323,kutas,high,best,bestshorter,323,The clerk put the groceries in the shopping bags.,x-x-x borne pre sir adulthood knew nor humanity undo.,list1
+kutas_low_rel_bestshorter_362,kutas,low,rel,bestshorter,362,The movers put the sofa on the bare ground.,x-x-x reruns card glad vivo took says mate truly.,list1
+kutas_high_best_bestshorter_362,kutas,high,best,bestshorter,362,The movers put the sofa on the bare floor.,x-x-x reruns card glad vivo took says mate truly.,list2
+kutas_low_unrel_bestshorter_365,kutas,low,unrel,bestshorter,365,The whole town came to hear the mayor resign.,x-x-x aware shut guys hate card kid meets genes.,list2
+kutas_high_best_bestshorter_365,kutas,high,best,bestshorter,365,The whole town came to hear the mayor speak.,x-x-x aware shut guys hate card kid meets genes.,list1
+kutas_low_unrel_bestshorter_388,kutas,low,unrel,bestshorter,388,The addict was caught pushing illegal movies.,x-x-x bolted anti videos predict suppose thinks.,list1
+kutas_high_best_bestshorter_388,kutas,high,best,bestshorter,388,The addict was caught pushing illegal drugs.,x-x-x bolted anti videos predict suppose thinks.,list2
+kutas_low_rel_bestshorter_406,kutas,low,rel,bestshorter,406,He was stung by a wasp.,x-x-x ago ramps post shop vans.,list2
+kutas_high_best_bestshorter_406,kutas,high,best,bestshorter,406,He was stung by a bee.,x-x-x ago ramps post shop vans.,list1
+kutas_low_rel_bestshorter_409,kutas,low,rel,bestshorter,409,The attendant filled the car with fuel.,x-x-x shortages behalf met miss join blog.,list1
+kutas_high_best_bestshorter_409,kutas,high,best,bestshorter,409,The attendant filled the car with gas.,x-x-x shortages behalf met miss join blog.,list2
+kutas_low_unrel_bestshorter_428,kutas,low,unrel,bestshorter,428,John filled the pen with care.,x-x-x racist sure owns soul duo.,list2
+kutas_high_best_bestshorter_428,kutas,high,best,bestshorter,428,John filled the pen with ink.,x-x-x racist sure owns soul duo.,list1
+kutas_low_rel_bestshorter_444,kutas,low,rel,bestshorter,444,The movie ended so sadly that Julie started to sob.,x-x-x yours apply bus eagle band Drill example app fore.,list1
+kutas_high_best_bestshorter_444,kutas,high,best,bestshorter,444,The movie ended so sadly that Julie started to.,x-x-x yours apply bus eagle band Drill example app.,list2
+kutas_low_rel_bestshorter_465,kutas,low,rel,bestshorter,465,The kids fed the ducks some stale crumbs.,x-x-x seen lung lose unite word assay sermon.,list2
+kutas_high_best_bestshorter_465,kutas,high,best,bestshorter,465,The kids fed the ducks some stale bread.,x-x-x seen lung lose unite word assay sermon.,list1
+kutas_low_rel_eq_301,kutas,low,rel,eq,301,She put on her high heeled boots.,x-x-x sale plan kid yeah cloves firms.,list3
+kutas_high_best_eq_301,kutas,high,best,eq,301,She put on her high heeled shoes.,x-x-x sale plan kid yeah cloves firms.,list4
+kutas_low_rel_eq_310,kutas,low,rel,eq,310,The dirty clothes were piled up in the laundry hamper.,x-x-x yours whoever goal vitro deal vote sir reacted gamers.,list4
+kutas_high_best_eq_310,kutas,high,best,eq,310,The dirty clothes were piled up in the laundry basket.,x-x-x yours whoever goal vitro deal vote sir reacted gamers.,list3
+kutas_low_unrel_eq_314,kutas,low,unrel,eq,314,One of the scouts did not know the way and got hurt.,x-x-x eat pull thrive irk yeah okay won here pre app site.,list3
+kutas_high_best_eq_314,kutas,high,best,eq,314,One of the scouts did not know the way and got lost.,x-x-x fun pull thrive irk yeah okay won here pre app site.,list4
+kutas_low_unrel_eq_320,kutas,low,unrel,eq,320,I added my name to the top of the wall.,x-x-x china pre else pick app sent shut glad gets.,list4
+kutas_high_best_eq_320,kutas,high,best,eq,320,I added my name to the top of the list.,x-x-x china pre else pick app sent shut glad gets.,list3
+kutas_low_unrel_eq_326,kutas,low,unrel,eq,326,The prisoners were planning their picnic.,x-x-x undermine okay congress allow topped.,list3
+kutas_high_best_eq_326,kutas,high,best,eq,326,The prisoners were planning their escape.,x-x-x undermine okay congress allow topped.,list4
+kutas_low_unrel_eq_331,kutas,low,unrel,eq,331,They went as far as they dared.,x-x-x glad keep kill guy uses minds.,list4
+kutas_high_best_eq_331,kutas,high,best,eq,331,They went as far as they could.,x-x-x glad keep kill guy uses minds.,list3
+kutas_low_unrel_eq_332,kutas,low,unrel,eq,332,Mary looked at her watch to check the band.,x-x-x option ones yeah filed okay wants term does.,list3
+kutas_high_best_eq_332,kutas,high,best,eq,332,Mary looked at her watch to check the time.,x-x-x option ones yeah filed okay wants term does.,list4
+kutas_low_unrel_eq_340,kutas,low,unrel,eq,340,The barbells the strong man lifted were very rusty.,x-x-x iterated okay inches yeah tonnes miss knew tally.,list4
+kutas_high_best_eq_340,kutas,high,best,eq,340,The barbells the strong man lifted were very heavy.,x-x-x iterated okay inches yeah tonnes miss knew tally.,list3
+kutas_low_rel_eq_341,kutas,low,rel,eq,341,He studied a long time so he would pass his tests.,x-x-x raising knew runs hurt anti spot sorry cell girl lakes.,list3
+kutas_high_best_eq_341,kutas,high,best,eq,341,He studied a long time so he would pass his exams.,x-x-x raising knew runs hurt anti spot sorry cell girl lakes.,list4
+kutas_low_unrel_eq_354,kutas,low,unrel,eq,354,John was so exhausted he took a vacation to get some help.,x-x-x fat am spotlight lord else guy abstract none sir page each.,list4
+kutas_high_best_eq_354,kutas,high,best,eq,354,John was so exhausted he took a vacation to get some rest.,x-x-x fat am spotlight lord else guy abstract none sir page each.,list3
+kutas_low_rel_eq_374,kutas,low,rel,eq,374,The tenants were evicted when they did not pay the last month's bill.,x-x-x modeled zero catcher cold give goal wall lake tree both deflect anti.,list3
+kutas_high_best_eq_374,kutas,high,best,eq,374,The tenants were evicted when they did not pay the last month's rent.,x-x-x modeled zero catcher cold give goal wall lake tree both deflect anti.,list4
+kutas_low_rel_eq_375,kutas,low,rel,eq,375,The wet towels were hung on the line to air.,x-x-x deny uncork luck dish died rule hate risk dear.,list4
+kutas_high_best_eq_375,kutas,high,best,eq,375,The wet towels were hung on the line to dry.,x-x-x deny uncork luck dish died rule hate risk dear.,list3
+kutas_low_rel_eq_387,kutas,low,rel,eq,387,While skiing Randy broke his arm.,x-x-x expire fetch mouth rose vice.,list3
+kutas_high_best_eq_387,kutas,high,best,eq,387,While skiing Randy broke his leg.,x-x-x expire fetch mouth rose vice.,list4
+kutas_low_rel_eq_395,kutas,low,rel,eq,395,The girl knew most of the words for her spelling quiz.,x-x-x else cool shut bet post enter cash guy minimize acre.,list4
+kutas_high_best_eq_395,kutas,high,best,eq,395,The girl knew most of the words for her spelling test.,x-x-x else cool shut bet post enter cash guy minimize acre.,list3
+kutas_low_unrel_eq_401,kutas,low,unrel,eq,401,The tenants decided to take their landlord to lunch.,x-x-x mystify airport fire days ended insulted eat funny.,list3
+kutas_high_best_eq_401,kutas,high,best,eq,401,The tenants decided to take their landlord to court.,x-x-x mystify airport fire days ended insulted eat funny.,list4
+kutas_low_rel_eq_402,kutas,low,rel,eq,402,They're out in the garden pulling roots.,x-x-x link app thus suffer nominee atlas.,list4
+kutas_high_best_eq_402,kutas,high,best,eq,402,They're out in the garden pulling weeds.,x-x-x link app thus suffer nominee atlas.,list3
+kutas_low_rel_eq_404,kutas,low,rel,eq,404,She sewed the button on with needle and black string.,x-x-x glyph guy indeed hate fund exodus fun worth deeply.,list3
+kutas_high_best_eq_404,kutas,high,best,eq,404,She sewed the button on with needle and black thread.,x-x-x glyph guy indeed hate fund exodus fun worth deeply.,list4
+kutas_low_unrel_eq_414,kutas,low,unrel,eq,414,She went to the salon to color her toes.,x-x-x kill kids nor tuned cost types send vary.,list4
+kutas_high_best_eq_414,kutas,high,best,eq,414,She went to the salon to color her hair.,x-x-x kill kids nor tuned cost types send vary.,list3
+kutas_low_unrel_eq_418,kutas,low,unrel,eq,418,Sam could not believe her story was true.,x-x-x worse nice opening hair click our push.,list3
+kutas_high_best_eq_418,kutas,high,best,eq,418,Sam could not believe her story was told.,x-x-x worse nice opening hair click our push.,list4
+kutas_low_rel_eq_424,kutas,low,rel,eq,424,New York is a very busy town.,x-x-x ride else bill gave ends seen.,list4
+kutas_high_best_eq_424,kutas,high,best,eq,424,New York is a very busy city.,x-x-x ride else bill gave ends seen.,list3
+kutas_low_rel_eq_426,kutas,low,rel,eq,426,The gas station is about two miles down the path.,x-x-x suck weekend zip spend idea feels post wife firm.,list3
+kutas_high_best_eq_426,kutas,high,best,eq,426,The gas station is about two miles down the road.,x-x-x suck weekend zip spend idea feels post wife firm.,list4
+kutas_low_unrel_eq_432,kutas,low,unrel,eq,432,None of his books made much sense.,x-x-x eyes low avoid feet bent wants.,list4
+kutas_high_best_eq_432,kutas,high,best,eq,432,None of his books made much money.,x-x-x eyes low avoid feet bent wants.,list3
+kutas_low_rel_eq_439,kutas,low,rel,eq,439,Captain Sheir wanted to stay with the sinking boat.,x-x-x renew senate dog cell hate has applies grow.,list3
+kutas_high_best_eq_439,kutas,high,best,eq,439,Captain Sheir wanted to stay with the sinking ship.,x-x-x renew senate dog cell hate has applies grow.,list4
+kutas_low_rel_eq_463,kutas,low,rel,eq,463,She made a salami sandwich on wheat rolls.,x-x-x pain eat aligns colleges arms ought filed.,list4
+kutas_high_best_eq_463,kutas,high,best,eq,463,She made a salami sandwich on wheat bread.,x-x-x pain eat aligns colleges arms ought filed.,list3
+kutas_low_unrel_eq_470,kutas,low,unrel,eq,470,They saw the lightning and heard the screams.,x-x-x east hour comprises fund grade goal unaware.,list3
+kutas_high_best_eq_470,kutas,high,best,eq,470,They saw the lightning and heard the thunder.,x-x-x east hour comprises fund grade goal unaware.,list4
+kutas_low_unrel_eq_472,kutas,low,unrel,eq,472,The squirrel stored some nuts in the hole.,x-x-x marketed liking walk edit male meet dear.,list4
+kutas_high_best_eq_472,kutas,high,best,eq,472,The squirrel stored some nuts in the tree.,x-x-x marketed liking walk edit male meet dear.,list3
+kutas_low_unrel_eq_474,kutas,low,unrel,eq,474,The car pulled up and took the last parking meter.,x-x-x ago random join king lady cell kept predict mercy.,list3
+kutas_high_best_eq_474,kutas,high,best,eq,474,The car pulled up and took the last parking space.,x-x-x ago random join king lady cell kept predict mercy.,list4
+kutas_high_best_bestlonger_302,kutas,high,best,bestlonger,302,The cub scouts needed a new den mother.,x-x-x swam realms nature vs laws sued facts.,list4
+kutas_low_unrel_bestlonger_302,kutas,low,unrel,bestlonger,302,The cub scouts needed a new den chair.,x-x-x swam realms nature vs laws sued facts.,list3
+kutas_low_unrel_bestlonger_313,kutas,low,unrel,bestlonger,313,She's afraid of deep water because she can't see.,x-x-x border rise cent speak century rule agent late.,list3
+kutas_high_best_bestlonger_313,kutas,high,best,bestlonger,313,She's afraid of deep water because she can't swim.,x-x-x border rise cent speak century rule agent late.,list4
+kutas_low_rel_bestlonger_318,kutas,low,rel,bestlonger,318,They heated the pool with solar power.,x-x-x ethics mom lets knew seeks click.,list4
+kutas_high_best_bestlonger_318,kutas,high,best,bestlonger,318,They heated the pool with solar energy.,x-x-x ethics mom lets knew seeks click.,list3
+kutas_low_unrel_bestlonger_319,kutas,low,unrel,bestlonger,319,The baby weighed six pounds at noon.,x-x-x fail methane sale reform lots crap.,list3
+kutas_high_best_bestlonger_319,kutas,high,best,bestlonger,319,The baby weighed six pounds at birth.,x-x-x fail methane sale reform lots crap.,list4
+kutas_low_rel_bestlonger_328,kutas,low,rel,bestlonger,328,The office held a new year's eve bash.,x-x-x anyway pull knew grow ripped eats taste.,list4
+kutas_high_best_bestlonger_328,kutas,high,best,bestlonger,328,The office held a new year's eve party.,x-x-x anyway pull knew grow ripped eats taste.,list3
+kutas_low_unrel_bestlonger_339,kutas,low,unrel,bestlonger,339,When the shooting started they ran for help.,x-x-x sir whatever healthy hill cat give basis.,list3
+kutas_high_best_bestlonger_339,kutas,high,best,bestlonger,339,When the shooting started they ran for cover.,x-x-x sir whatever healthy hill cat give basis.,list4
+kutas_low_unrel_bestlonger_353,kutas,low,unrel,bestlonger,353,On hot days many people sun themselves on the roof.,x-x-x glad whom fund itself gym investment post guys helps.,list4
+kutas_high_best_bestlonger_353,kutas,high,best,bestlonger,353,On hot days many people sun themselves on the beach.,x-x-x glad whom fund itself gym investment post guys helps.,list3
+kutas_low_rel_bestlonger_355,kutas,low,rel,bestlonger,355,William went to the bank to borrow some cash.,x-x-x door bag guy none fans wished face comes.,list3
+kutas_high_best_bestlonger_355,kutas,high,best,bestlonger,355,William went to the bank to borrow some money.,x-x-x door bag guy none fans wished face comes.,list4
+kutas_low_rel_bestlonger_382,kutas,low,rel,bestlonger,382,Cathy was glad that Friday was payday because she was poor.,x-x-x miss ford trip Senate ways invade systems add goal mark.,list4
+kutas_high_best_bestlonger_382,kutas,high,best,bestlonger,382,Cathy was glad that Friday was payday because she was broke.,x-x-x miss ford trip Senate ways invade systems add goal mark.,list3
+kutas_low_rel_bestlonger_383,kutas,low,rel,bestlonger,383,George made out a check to pay the monthly telephone fee.,x-x-x gift miss girl begin hurt mom eyes decides dominated male.,list3
+kutas_high_best_bestlonger_383,kutas,high,best,bestlonger,383,George made out a check to pay the monthly telephone bill.,x-x-x gift miss girl begin hurt mom eyes decides dominated male.,list4
+kutas_low_unrel_bestlonger_390,kutas,low,unrel,bestlonger,390,George kept his pet on a diet.,x-x-x sale cup fled yes done font.,list4
+kutas_high_best_bestlonger_390,kutas,high,best,bestlonger,390,George kept his pet on a leash.,x-x-x sale cup fled yes done font.,list3
+kutas_low_unrel_bestlonger_393,kutas,low,unrel,bestlonger,393,Jeff felt sorry but it was not his turn.,x-x-x lady click fund lake own park ship trees.,list3
+kutas_high_best_bestlonger_393,kutas,high,best,bestlonger,393,Jeff felt sorry but it was not his fault.,x-x-x lady click fund lake own park ship trees.,list4
+kutas_low_unrel_bestlonger_396,kutas,low,unrel,bestlonger,396,They asked Dave to play tennis but he was too good.,x-x-x agent Caps bet laws virgin die hill real act page.,list4
+kutas_high_best_bestlonger_396,kutas,high,best,bestlonger,396,They asked Dave to play tennis but he was too tired.,x-x-x agent Caps bet laws virgin die hill real act page.,list3
+kutas_low_unrel_bestlonger_415,kutas,low,unrel,bestlonger,415,Brian poured some sauce on his rare meat.,x-x-x scarce spot filed none jobs dean faced.,list3
+kutas_high_best_bestlonger_415,kutas,high,best,bestlonger,415,Brian poured some sauce on his rare steak.,x-x-x scarce spot filed none jobs dean faced.,list4
+kutas_low_rel_bestlonger_419,kutas,low,rel,bestlonger,419,Tim threw a rock and broke the glass.,x-x-x anime know whom paid agent anti begin.,list4
+kutas_high_best_bestlonger_419,kutas,high,best,bestlonger,419,Tim threw a rock and broke the window.,x-x-x anime know whom paid agent anti begin.,list3
+kutas_low_unrel_bestlonger_423,kutas,low,unrel,bestlonger,423,The lawyer feared that his client would be found crazy.,x-x-x afford graves hear miss funded earth west scene survey.,list3
+kutas_high_best_bestlonger_423,kutas,high,best,bestlonger,423,The lawyer feared that his client would be found guilty.,x-x-x afford graves hear miss funded earth west scene survey.,list4
+kutas_low_unrel_bestlonger_436,kutas,low,unrel,bestlonger,436,The boat passed easily under the falls.,x-x-x rely senate agency needs dad teach.,list4
+kutas_high_best_bestlonger_436,kutas,high,best,bestlonger,436,The boat passed easily under the bridge.,x-x-x rely senate agency needs dad teach.,list3
+kutas_low_rel_bestlonger_451,kutas,low,rel,bestlonger,451,He bought the chocolates at the candy shop.,x-x-x supply fall hurricanes oh pro skies civil.,list3
+kutas_high_best_bestlonger_451,kutas,high,best,bestlonger,451,He bought the chocolates at the candy store.,x-x-x supply fall hurricanes oh pro skies civil.,list4
+kutas_low_rel_bestlonger_452,kutas,low,rel,bestlonger,452,After the accident they went for aid.,x-x-x app contains cash gold cost came.,list4
+kutas_high_best_bestlonger_452,kutas,high,best,bestlonger,452,After the accident they went for help.,x-x-x app contains cash gold cost came.,list3
+kutas_low_unrel_bestlonger_459,kutas,low,unrel,bestlonger,459,It was important to be on top.,x-x-x holy attention wish ones shop gone.,list3
+kutas_high_best_bestlonger_459,kutas,high,best,bestlonger,459,It was important to be on time.,x-x-x holy attention wish ones shop gone.,list4
+kutas_low_unrel_bestlonger_471,kutas,low,unrel,bestlonger,471,It felt much colder when the sun was behind a tree.,x-x-x ways runs tomato nine wish nor risk doctor got leads.,list4
+kutas_high_best_bestlonger_471,kutas,high,best,bestlonger,471,It felt much colder when the sun was behind a cloud.,x-x-x ways runs tomato nine wish nor risk doctor got leads.,list3
+kutas_low_rel_bestshorter_304,kutas,low,rel,bestshorter,304,The pizza was too hot to chew.,x-x-x alike hope hour rate said mob.,list3
+kutas_high_best_bestshorter_304,kutas,high,best,bestshorter,304,The pizza was too hot to eat.,x-x-x alike hope hour rate said mob.,list4
+kutas_low_rel_bestshorter_307,kutas,low,rel,bestshorter,307,The ship disappeared into the thick mist.,x-x-x suck controversy sell dad threw lag.,list4
+kutas_high_best_bestshorter_307,kutas,high,best,bestshorter,307,The ship disappeared into the thick fog.,x-x-x suck controversy sell dad threw lag.,list3
+kutas_low_rel_bestshorter_308,kutas,low,rel,bestshorter,308,Nothing can beat a bowl of hot broth.,x-x-x cast wood mid aids met ran scans.,list3
+kutas_high_best_bestshorter_308,kutas,high,best,bestshorter,308,Nothing can beat a bowl of hot soup.,x-x-x cast wood mid aids met ran scans.,list4
+kutas_low_rel_bestshorter_323,kutas,low,rel,bestshorter,323,The clerk put the groceries in the shopping carts.,x-x-x borne pre sir adulthood knew nor humanity undo.,list4
+kutas_high_best_bestshorter_323,kutas,high,best,bestshorter,323,The clerk put the groceries in the shopping bags.,x-x-x borne pre sir adulthood knew nor humanity undo.,list3
+kutas_low_rel_bestshorter_362,kutas,low,rel,bestshorter,362,The movers put the sofa on the bare ground.,x-x-x reruns card glad vivo took says mate truly.,list3
+kutas_high_best_bestshorter_362,kutas,high,best,bestshorter,362,The movers put the sofa on the bare floor.,x-x-x reruns card glad vivo took says mate truly.,list4
+kutas_low_unrel_bestshorter_365,kutas,low,unrel,bestshorter,365,The whole town came to hear the mayor resign.,x-x-x aware shut guys hate card kid meets genes.,list4
+kutas_high_best_bestshorter_365,kutas,high,best,bestshorter,365,The whole town came to hear the mayor speak.,x-x-x aware shut guys hate card kid meets genes.,list3
+kutas_low_unrel_bestshorter_388,kutas,low,unrel,bestshorter,388,The addict was caught pushing illegal movies.,x-x-x bolted anti videos predict suppose thinks.,list3
+kutas_high_best_bestshorter_388,kutas,high,best,bestshorter,388,The addict was caught pushing illegal drugs.,x-x-x bolted anti videos predict suppose thinks.,list4
+kutas_low_rel_bestshorter_406,kutas,low,rel,bestshorter,406,He was stung by a wasp.,x-x-x ago ramps post shop vans.,list4
+kutas_high_best_bestshorter_406,kutas,high,best,bestshorter,406,He was stung by a bee.,x-x-x ago ramps post shop vans.,list3
+kutas_low_rel_bestshorter_409,kutas,low,rel,bestshorter,409,The attendant filled the car with fuel.,x-x-x shortages behalf met miss join blog.,list3
+kutas_high_best_bestshorter_409,kutas,high,best,bestshorter,409,The attendant filled the car with gas.,x-x-x shortages behalf met miss join blog.,list4
+kutas_low_unrel_bestshorter_428,kutas,low,unrel,bestshorter,428,John filled the pen with care.,x-x-x racist sure owns soul duo.,list4
+kutas_high_best_bestshorter_428,kutas,high,best,bestshorter,428,John filled the pen with ink.,x-x-x racist sure owns soul duo.,list3
+kutas_low_rel_bestshorter_444,kutas,low,rel,bestshorter,444,The movie ended so sadly that Julie started to sob.,x-x-x yours apply bus eagle band Drill example app fore.,list3
+kutas_high_best_bestshorter_444,kutas,high,best,bestshorter,444,The movie ended so sadly that Julie started to.,x-x-x yours apply bus eagle band Drill example app.,list4
+kutas_low_rel_bestshorter_465,kutas,low,rel,bestshorter,465,The kids fed the ducks some stale crumbs.,x-x-x seen lung lose unite word assay sermon.,list4
+kutas_high_best_bestshorter_465,kutas,high,best,bestshorter,465,The kids fed the ducks some stale bread.,x-x-x seen lung lose unite word assay sermon.,list3
