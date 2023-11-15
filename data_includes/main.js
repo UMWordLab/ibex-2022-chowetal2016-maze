@@ -92,7 +92,6 @@ Template("stimuli.csv", row => {
               .wait()
         )
         .log("counter", __counter_value_from_server__)
-        .log("label", row.label)
         .log("item", row.item)
         .log("cond1", row.cond1)
         .log("cond2", row.cond2)
